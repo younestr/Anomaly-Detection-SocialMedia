@@ -10,22 +10,24 @@ Anomaly detection in social media is essential for identifying cyberbullying, ha
 
 ---
 
-## Textual Feature Extraction
+## I. Anomaly Detection Based on User Behavior Characteristics
+
+### A. Textual Feature Extraction
 This section focuses on analyzing user-generated text to identify anomalous social behaviors. Techniques such as NLP, data mining, and dimensionality reduction aid in extracting and analyzing content features.
 
-### Purpose
+#### Purpose
 Detect anomalies related to:
 - **Cyberbullying**
 - **Hate Speech**
 - **Misinformation**
 - **Spam**
 
-### Methods
+#### Methods
 - **Natural Language Processing (NLP)**
 - **Data Mining**
 - **Dimensionality Reduction**
 
-### Key Studies and Approaches
+#### Key Studies and Approaches
 - **Hao et al.**
   - Defined four abnormal behaviors: aggression, injury, arrest, and fatality.
   - Methods: Support Vector Machine (SVM) and trigger words for identifying anomalous sentences.
@@ -44,27 +46,27 @@ Detect anomalies related to:
 - **Drif et al.**
   - Used entity similarity calculation to reduce false positives in anomaly detection.
 
-### Challenges
+#### Challenges
 - **Data Limitations**: Limited datasets can restrict feature extraction capabilities.
 - **Language and Cultural Nuance**: Difficulties in capturing complex language and cultural variations.
 - **Privacy vs. Detection**: Balancing user privacy with effective anomaly detection.
 
-### Advanced Techniques
+#### Advanced Techniques
 - **Word Embeddings & Neural Networks**: Improved feature extraction through deep learning methods, enabling detection of subtle anomalies in text data.
 
 ---
 
-## Feature Selection Based on Interactive Behaviors
+### B. Feature Selection Based on Interactive Behaviors
 This approach involves analyzing user interaction behaviors on social networks to identify unusual activities. It looks at variables such as post frequency, likes, comments, and discussion topics.
 
-### Focus
+#### Focus
 Identify key features based on interactive behaviors that correlate with unusual user activity.
 
-### Methods
+#### Methods
 - **Clustering Techniques**: Group users based on interaction features.
 - **Combined Clustering and Classification**: Detect anomalous patterns in behavior.
 
-### Key Studies and Approaches
+#### Key Studies and Approaches
 - **Aljably et al.**
   - Identified behaviors like post frequency, timing, likes, comments, and topic diversity as anomaly indicators.
   - Used clustering to group users and trained models based on these groups.
@@ -74,7 +76,7 @@ Identify key features based on interactive behaviors that correlate with unusual
   - Applied Local Differential Privacy (LDP) for data protection.
   - Used sequential pattern mining to detect frequent behaviors and predict trends.
 
-### Advantages and Challenges
+#### Advantages and Challenges
 - **Advantages**: 
   - In-depth behavior analysis enhances accuracy and reliability in detecting minor changes.
 - **Challenges**:
@@ -83,34 +85,20 @@ Identify key features based on interactive behaviors that correlate with unusual
 
 ---
 
-## Performance Evaluation Metrics
-To evaluate the effectiveness of anomaly detection models, various metrics are used, including:
-
-- **Primary Metrics**:
-  - **Accuracy (ACC)**: Overall classification accuracy.
-  - **Recall**: Ability to capture true positives.
-  - **Precision**: Accuracy of positive predictions.
-  - **F1-score**: Balances Precision and Recall, ideal for imbalanced datasets.
-
-- **Additional Metrics**:
-  - **APs, FPs, Precision-Recall (PR) Curves, ROC Curves, AUC Curves**, etc., offer further insights into model usability and reliability.
-
----
-
-## Anomaly Detection Based on Network Topological Structure
+## II. Anomaly Detection Based on Network Topological Structure
 
 In social networks, malicious users may disguise their activity to blend in with genuine users while carrying out harmful actions. Text-based classifiers often struggle to identify these covert anomalies. Instead, using **network topology**—the arrangement of connections among users—offers a powerful approach for anomaly detection. Deviations in network structures, like irregular linkages, unusual clustering, or atypical centrality measures, can indicate anomalous behavior.
 
 ---
 
-### Network Topology Overview
+### A. Network Topology Overview
 Anomaly detection via network topology focuses on identifying irregularities within **graph-based data structures**. Social networks are modeled as graphs \( G = (V, E) \), where:
 - \( V \): Set of users (nodes)
 - \( E \): Set of connections (edges) among users, with each edge \( e \in E \) representing a relationship between nodes \( u \) and \( v \).
 
 The feature extraction process, illustrated in **Fig. 2** ("Anom_SM_topology_feature_extraction.webp"), shows how data is gathered from a graph database, processed with a **Graph Convolutional Network (GCN)**, and transformed into vector representations for anomaly detection.
 
-### Key Concepts in Network Topology Anomalies
+### B. Key Concepts in Network Topology Anomalies
 
 1. **Node Anomalies**
    - Refers to individual users whose behavior significantly deviates from the norm within the network.
@@ -127,15 +115,12 @@ The feature extraction process, illustrated in **Fig. 2** ("Anom_SM_topology_fea
 
 ---
 
-### Advantages of Topological Anomaly Detection
+### C. Advantages of Topological Anomaly Detection
 - **Comprehensive Detection**: Network structure analysis captures both individual and group behaviors that textual analysis might miss.
 - **Behavioral Insight**: Topology-based detection sheds light on underlying social structures and hidden relationships.
 
-### Challenges
+### D. Challenges
 - **Complexity**: Processing large network graphs can be computationally intensive.
 - **Data Sensitivity**: Requires careful handling of user interaction data to respect privacy while ensuring effective detection.
 
 ---
-
-This improved structure provides a clearer, segmented flow for understanding the approach and methods used in topological anomaly detection, along with visual support from the architectural diagram.
-
