@@ -97,4 +97,45 @@ To evaluate the effectiveness of anomaly detection models, various metrics are u
 
 ---
 
+## Anomaly Detection Based on Network Topological Structure
+
+In social networks, malicious users may disguise their activity to blend in with genuine users while carrying out harmful actions. Text-based classifiers often struggle to identify these covert anomalies. Instead, using **network topology**—the arrangement of connections among users—offers a powerful approach for anomaly detection. Deviations in network structures, like irregular linkages, unusual clustering, or atypical centrality measures, can indicate anomalous behavior.
+
+---
+
+### Network Topology Overview
+Anomaly detection via network topology focuses on identifying irregularities within **graph-based data structures**. Social networks are modeled as graphs \( G = (V, E) \), where:
+- \( V \): Set of users (nodes)
+- \( E \): Set of connections (edges) among users, with each edge \( e \in E \) representing a relationship between nodes \( u \) and \( v \).
+
+The feature extraction process, illustrated in **Fig. 2** ("Anom_SM_topology_feature_extraction.webp"), shows how data is gathered from a graph database, processed with a **Graph Convolutional Network (GCN)**, and transformed into vector representations for anomaly detection.
+
+### Key Concepts in Network Topology Anomalies
+
+1. **Node Anomalies**
+   - Refers to individual users whose behavior significantly deviates from the norm within the network.
+   - Examples include spammers or malicious users involved in harmful activities.
+
+2. **Group Anomalies**
+   - Focuses on identifying subgraphs with interaction patterns that appear chaotic or abnormal.
+   - Includes organized groups engaged in fraudulent schemes or other collaborative harmful behaviors.
+
+3. **Interaction Anomalies**
+   - Involves detecting irregularities in user interactions by analyzing specific edges in the graph.
+   - Anomalous edges may display a low probability of occurrence or a sudden change in interaction weight (e.g., frequency of communication).
+   - For instance, noticeable shifts in communication patterns can indicate network anomalies.
+
+---
+
+### Advantages of Topological Anomaly Detection
+- **Comprehensive Detection**: Network structure analysis captures both individual and group behaviors that textual analysis might miss.
+- **Behavioral Insight**: Topology-based detection sheds light on underlying social structures and hidden relationships.
+
+### Challenges
+- **Complexity**: Processing large network graphs can be computationally intensive.
+- **Data Sensitivity**: Requires careful handling of user interaction data to respect privacy while ensuring effective detection.
+
+---
+
+This improved structure provides a clearer, segmented flow for understanding the approach and methods used in topological anomaly detection, along with visual support from the architectural diagram.
 
