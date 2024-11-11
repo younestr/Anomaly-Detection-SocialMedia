@@ -124,3 +124,28 @@ The feature extraction process, illustrated in **Fig. 2** ("Anom_SM_topology_fea
 - **Data Sensitivity**: Requires careful handling of user interaction data to respect privacy while ensuring effective detection.
 
 ---
+## III. Anomaly Detection Based on Collaborative Fusion
+
+### Overview
+Anomaly detection using collaborative fusion involves integrating user attributes (e.g., age, location, workplace) with network topological structures to provide a more comprehensive analysis of social behaviors. This method enhances the detection of anomalies by combining node attributes and interaction characteristics, thus improving the accuracy of anomaly detection in social networks.
+
+- **Challenge**: Traditional network topology methods often overlook critical node or edge attributes, which can result in lower detection accuracy.
+- **Solution**: Collaborative fusion combines topological and attribute-based analyses to enhance detection accuracy and efficiency.
+
+---
+
+### Collaborative Fusion Architecture
+![Anomaly Detection Collaborative Fusion Architecture](Anom_SM_CollabFusion.webp)
+
+---
+
+### Key Concepts
+
+#### A. Node and Edge Attributes
+- **Node Attributes**: Details such as user age, residence, and engagement frequency.
+- **Edge Attributes**: Nature, type, and duration of interactions between nodes.
+
+#### B. Benefits of Collaborative Fusion
+- **Enhanced Accuracy**: Improves detection by utilizing additional metadata linked to nodes and edges.
+- **Dimensionality Reduction**: By selecting relevant features, it reduces data noise and dimensionality, resulting in faster processing times.
+- **Adaptability**: Increases the generalization ability to adapt
