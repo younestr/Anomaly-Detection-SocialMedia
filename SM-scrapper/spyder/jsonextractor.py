@@ -3,52 +3,65 @@ import csv
 import os
 
 # File paths
-input_json_path = r"C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\jsontest.json"
+input_json_path = r"C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\Melanoma_2024-12-20.json"
 output_csv_dir = r"C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data"
-output_csv_path = os.path.join(output_csv_dir, "extracted_data.csv")
+output_csv_path = os.path.join(output_csv_dir, "Melanoma_data.csv")
 
 # Load your JSON file
 with open(input_json_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-# Extract the first post ID
+# Extract the post IDs
 post_ids = data.get("data", {}).get("postIds", [])
 if not post_ids:
     print("No post IDs found in the data.")
     exit()
 
-first_post_id = post_ids[0]  # First post ID
-
-# Navigate to the post details
+# Navigate to the posts
 posts = data.get("data", {}).get("posts", {})
-post_details = posts.get(first_post_id, {})
 
 # Initialize a list to store extracted data
 extracted_data = []
 
-# Collect top-level post attributes
-post_attributes = {
-    "isNSFW": post_details.get("isNSFW", False),
-    "isMedia": post_details.get("isMediaOnly", False),
-    "title": post_details.get("title", ""),
-    "author": post_details.get("author", ""),
-    "numComments": post_details.get("numComments", 0),
-    "score": post_details.get("score", 0),
-    "permalink": post_details.get("permalink", "")
-}
+# Iterate over each post ID and extract data
+for post_id in post_ids:
+    post_details = posts.get(post_id, {})
+    
+    # Collect top-level post attributes
+    post_attributes = {
+        "postId": post_id,  # Add the post ID to the attributes
+        "isNSFW": post_details.get("isNSFW", False),
+        "isMedia": post_details.get("isMediaOnly", False),
+        "title": post_details.get("title", ""),
+        "author": post_details.get("author", ""),
+        "authorIsBlocked": post_details.get("authorIsBlocked", False),
+        "upvoteRatio": post_details.get("upvoteRatio", 0.0),
+        "viewCount": post_details.get("viewCount", 0),
+        "goldCount": post_details.get("goldCount", 0),
+        "isSponsored": post_details.get("isSponsored", False),
+        "isSpoiler": post_details.get("isSpoiler", False),
+        "sendReplies": post_details.get("sendReplies", True),
+        "numComments": post_details.get("numComments", 0),
+        "score": post_details.get("score", 0),
+        "permalink": post_details.get("permalink", "")
+    }
 
-# Traverse to richtextContent -> document -> c -> t
-media = post_details.get("media", {})
-richtext_content = media.get("richtextContent", {}).get("document", [])
+    # Traverse to richtextContent -> document -> c -> t
+    media = post_details.get("media", {})
+    richtext_content = media.get("richtextContent", {}).get("document", [])
 
-for document in richtext_content:
-    for content in document.get("c", []):
-        if content.get("e") == "text":  # Look for text elements
-            text_content = content.get("t", "")
-            extracted_data.append({**post_attributes, "text": text_content})
+    for document in richtext_content:
+        for content in document.get("c", []):
+            if content.get("e") == "text":  # Look for text elements
+                text_content = content.get("t", "")
+                extracted_data.append({**post_attributes, "text": text_content})
 
 # Write the extracted data to a CSV file
-csv_columns = ["isNSFW", "isMedia", "title", "author", "numComments", "score", "permalink", "text"]
+csv_columns = [
+    "postId", "isNSFW", "isMedia", "title", "author", "authorIsBlocked", "upvoteRatio",
+    "viewCount", "goldCount", "isSponsored", "isSpoiler", "sendReplies",
+    "numComments", "score", "permalink", "text"
+]
 
 try:
     with open(output_csv_path, mode='w', newline='', encoding='utf-8') as file:

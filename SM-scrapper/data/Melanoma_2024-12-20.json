@@ -1,0 +1,3071 @@
+{
+    "data": {
+        "authorFlair": {
+            "t5_2vjxi": {
+                "jmalag": null,
+                "sdoooooo": null,
+                "Broken_Enigma": {
+                    "text": "Patient/Survivor",
+                    "richtext": [
+                        {
+                            "e": "text",
+                            "t": "Patient/Survivor"
+                        }
+                    ],
+                    "type": "richtext",
+                    "textColor": "light",
+                    "backgroundColor": "#0079d3",
+                    "templateId": "471fdcb6-1ece-11ef-a4d4-9e53e83d725d"
+                },
+                "Superb_Catch_907": null,
+                "Gator00001": null,
+                "Slow-Marionberry4922": null,
+                "AlertHelicopter1706": null,
+                "CompetitiveCut1457": null,
+                "Lodi978": null,
+                "WoodpeckerChecker": null,
+                "Unlucky-Sod": null,
+                "Federal-Lifeguard602": null,
+                "ronnie_43381": null,
+                "No-Big-9288": null,
+                "freshsqueezedideas": null,
+                "mn2flHLD": null,
+                "usernotfoundhere007": null,
+                "The1girlfromtheplace": null,
+                "Accurate_Mulberry_92": null,
+                "tamponsmom": null,
+                "Extension-Seaweed21": null,
+                "Whattheheck_61": null,
+                "General-Mastodon9954": null,
+                "danb298": null
+            },
+            "t5_5bsphb": {
+                "danb298": null
+            }
+        },
+        "postIds": [
+            "t3_1hhhl72",
+            "t3_1hhbh52",
+            "t3_1hh4kii",
+            "t3_1hgva2x",
+            "t3_1hfyyjt",
+            "t3_1hfr811",
+            "t3_1hdoazx",
+            "t3_1hbhoeq",
+            "t3_1hbgg6w",
+            "t3_1haqhxi",
+            "t3_1ha4hdp",
+            "t3_1ha2wsv",
+            "t3_1h9h9td",
+            "t3_1h8kcpr",
+            "t3_1h865e5",
+            "t3_1h84tzs",
+            "t3_1h7scfu",
+            "t3_1h7n8bq",
+            "t3_1h6zch6",
+            "t3_1h689zs",
+            "t3_1h66pwu",
+            "t3_1h5j42c",
+            "t3_1h3q2bi",
+            "t3_1h1kenw",
+            "t3_1h105kg"
+        ],
+        "posts": {
+            "t3_1hhhl72": {
+                "id": "t3_1hhhl72",
+                "numComments": 5,
+                "created": 1734572176000,
+                "score": 11,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Post-treatment Anxiety",
+                "author": "jmalag",
+                "authorId": "t2_78le3h26q",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hhhl72",
+                "upvoteRatio": 0.93,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hhhl72/posttreatment_anxiety/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hey all- I was diagnosed with Melanoma in situ back in September and received surgical removal in November. Margins came back clear, however, I have been quite anxious since all this went down. My husband no longer wants to hear me cry about it, but I truthfully cannot talk about my experience without choking up. I have constant anxiety about dying, about falling asleep and not waking up. I am a new mom to a beautiful 1 year old boy, and the thought of getting cancer again and not being around for him destroys me. I have been in therapy for a long while, but I feel I need more support from other melanoma survivors. I am desperate for encouragement and positive stories."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhhl72?m=AQAAIoVmZ7pw9b7hcoQ6n7tzVTxTdy25FU9eTudMZ-3ipURIqZ2X",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhbh52": {
+                "id": "t3_1hhbh52",
+                "numComments": 8,
+                "created": 1734555192000,
+                "score": 4,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Anything you'd consider essential during a diagnosis?",
+                "author": "sdoooooo",
+                "authorId": "t2_4gkvpyk7",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hhbh52",
+                "upvoteRatio": 0.83,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hhbh52/anything_youd_consider_essential_during_a/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hello all, My wife (29) likely has a Melanoma on a thigh(biopsy is set for tomorrow) with potential spread to throat (laryngologist is set for Friday)."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The thing is, my mother had different type of cancer and because of medical error(s) almost didn't make it so my trust in doctors basically doesn't exist."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Is there something you'd consider a must-have during diagnosis? Like saving the material from biopsy for any further DNA tests? Requesting a biopsy of sentinel node before results? Any tests that I should expect / ask for?"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Basically, I need to make sure there won't be anything like \"if only we would know that sooner...\""
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhbh52?m=AQAAIoVmZw4RlFI8r3q4LuBOREjw-XE9Tnsg188J3DeVVc8Yz5K7",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hh4kii": {
+                "id": "t3_1hh4kii",
+                "numComments": 3,
+                "created": 1734537263000,
+                "score": 3,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "SLNB Removal Site Still Draining",
+                "author": "Broken_Enigma",
+                "authorId": "t2_xao3b",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hh4kii",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hh4kii/slnb_removal_site_still_draining/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Had scalp excision and SLNB behind my right ear on Nov. 12. All went well. Reconstruction on the 22nd."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "So five weeks later and I'm still having drainage from my SLNB site. It's slightly bloody water appearance, so not infected. I see my PCP next week and I'll have him check it."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "My excision site is fine."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Is this usual? Anyone else have it go on this long?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hh4kii?m=AQAAIoVmZ8XUqHd2K5MHiq0HyaQynh0qt6OD8On9BwevDQ4yja1H",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgva2x": {
+                "id": "t3_1hgva2x",
+                "numComments": 2,
+                "created": 1734501790000,
+                "score": 8,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Reoccurrence anxiety w/ recent biopsies",
+                "author": "Superb_Catch_907",
+                "authorId": "t2_491irnlmg",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hgva2x",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hgva2x/reoccurrence_anxiety_w_recent_biopsies/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hi! I am 19 and had stage 1 melanoma when I was 17 that was successfully removed with clear margins. I honestly haven\u2019t felt super stressed about melanoma since, but I am suddenly so overwhelmed after my skin check appointment today. During the appt, I had 3 moles removed, one of which had a slightly pinkish hue like the one that was cancerous 2 years ago. This biopsy site is also bleeding a LOT more than the other two. The depth of the shave, biopsy location, etc could obviously play a role, but I can\u2019t help but worry that this is a sign of malignancy. I won\u2019t know for sure until my biopsy results but just curious if anyone has noticed heavier bleeding being associated with a melanoma diagnosis??"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I have had so much shit happen the past year or so that I haven\u2019t thought about my experience with melanoma whatsoever, but now I\u2019m all of a sudden so overwhelmed. How do you deal with the fear of reoccurrence? And the fear of more aggressive forms developing? I feel like it\u2019s inevitable that I\u2019m gonna have more cancerous moles since I was only 17 with my first melanoma. Plus I\u2019m covered in atypical moles and have red hair. triple threat I guess lol. I\u2019d greatly appreciate any advice <33"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgva2x?m=AQAAIoVmZxsQea-Mrrr_sbXn1_LjnfDrVWz1nVHuSxXDMC4J9pAn",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hfyyjt": {
+                "id": "t3_1hfyyjt",
+                "numComments": 31,
+                "created": 1734397747000,
+                "score": 16,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Stage 0 Melanoma - need reassurance",
+                "author": "Gator00001",
+                "authorId": "t2_gv8t6eve9",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hfyyjt",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hfyyjt/stage_0_melanoma_need_reassurance/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hi - I am 26F and was just told I had stage 0 melanoma on Thursday and had the surrounding environment removed Friday. I guess I am in all kinds of shock because I had 4 different doctors over look it and say it looked normal. By the 4th dermatologist, I insisted on having it removed, which then it actually turned out to be something. I\u2019m happy but so anxious that I was actually right about a health concern. THANK GOD I\u2019m a hypochondriac. My paranoia saved my life. I probably had my mole the way it was for like a whole year - yes, I\u2019m always in the doctor since I\u2019m super health conscious, so I have no worries about me being on top of my future check ups. ;)"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Can anyone else relate? I know a few people in my life who have had it, but I\u2019m so bummed I got it so young. I guess I would like to be comforted and talk to others who may have had the same thing or currently have it. \ud83d\ude03"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hfyyjt?m=AQAAIoVmZ1WkVFWsJDfiEmVI72UekSczYzfYUOMjWmIGY9QA9eWf",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hfr811": {
+                "id": "t3_1hfr811",
+                "numComments": 3,
+                "created": 1734377237000,
+                "score": 5,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Opinions needed! ",
+                "author": "Slow-Marionberry4922",
+                "authorId": "t2_o2156k9ql",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hfr811",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hfr811/opinions_needed/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hi! My dad was diagnosed with metastatic melanoma that is in lymph nodes. The exact site of the melanoma is not known. He is currently taking immunotherapy, opdivo and yervoy. Has anyone who has had these 2 treatments get any confusion or weakness from them? If so, how was that taken care of? I feel like there might be a very very mild confusion for my dad and I\u2019m not sure how they handle that. Thanks!"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hfr811?m=AQAAIoVmZ9yktp4Kmgg7jhJbhB_qb7WwBK5EOvTEuYGi0IxllCRB",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hdoazx": {
+                "id": "t3_1hdoazx",
+                "numComments": 8,
+                "created": 1734129419000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Is a single affected lymph node a better sign",
+                "author": "AlertHelicopter1706",
+                "authorId": "t2_72fforu9",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hdoazx",
+                "upvoteRatio": 0.88,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hdoazx/is_a_single_affected_lymph_node_a_better_sign/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "*Planning to ask questions to the oncologist but want some opinions while I'm waiting."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "My dad (74) had an excision of a 10 cm deep melanoma on his scalp in addition to 5 lymph nodes. The size of the melanoma is troubling. Pathology results show that cancer metastasized to one of the 5 lymph nodes."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "We are waiting to have a PET scan to see if there's cancer in other places."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Question: Is it a \"better\" sign that cancer was found in only 1 of the lymph nodes? Or does it matter?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hdoazx?m=AQAAIoVmZ4W5kfMhTYJFWMT9BZK69_JwP2K3PfRYrfnusu59SxXL",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hbhoeq": {
+                "id": "t3_1hbhoeq",
+                "numComments": 13,
+                "created": 1733879405000,
+                "score": 8,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Was diagnosed with 1b.. looking for guidance and advice. ",
+                "author": "CompetitiveCut1457",
+                "authorId": "t2_g96monw3",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hbhoeq",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hbhoeq/was_diagnosed_with_1b_looking_for_guidance_and/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "pT1b. I went in to derm for forst time and they cut it out of me an hour later. Biopsy came back pT1b, so they scheduled a lymph node biopsy for tomorrow."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The thing, which was slightly smaller than a dime"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I'm just curious, what's the expectation if they find anything? What's the treatment, life expectancy, etc?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hbhoeq?m=AQAAIoVmZ04VY8g6FnUUMr9KymxjaPBdkaKTLGzlzSTr9FjuTln2",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hbgg6w": {
+                "id": "t3_1hbgg6w",
+                "numComments": 7,
+                "created": 1733875828000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Multiple Brain Surgeries",
+                "author": "Lodi978",
+                "authorId": "t2_5z1267k4",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1hbgg6w",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1hbgg6w/multiple_brain_surgeries/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "For those with brain metastases, do doctors typically perform multiple surgeries if there is a recurrence? I understand that if there were multiple tumors or if they were in a difficult location it would be unlikely, but is there a limit to how many times you can have surgery to remove a brain tumor?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hbgg6w?m=AQAAIoVmZ4S9B7qoiYY9zMvN1Oht9OlNPQi5XoSVnS-wQ9xFjQ92",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1haqhxi": {
+                "id": "t3_1haqhxi",
+                "numComments": 20,
+                "created": 1733795003000,
+                "score": 5,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Oncologists",
+                "author": "WoodpeckerChecker",
+                "authorId": "t2_n78eq8f29",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1haqhxi",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1haqhxi/oncologists/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Does everyone here usually get with an oncologist after their diagnosis? The more I read on here the more it seems so. At this point I'm 3 weeks out from a WLE for a 1a melanoma and have so far just seen my dermatologist. She did both the biopsy and excision and put me on a 3 month skin check schedule. Is there any benefit for also getting under the care of an oncologist? I'm in the US if that makes a difference."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1haqhxi?m=AQAAIoVmZ5sAerj9u_30yQbYk1s6LoHGn8nD30LVDzIPbff2Zn02",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1ha4hdp": {
+                "id": "t3_1ha4hdp",
+                "numComments": 24,
+                "created": 1733729345000,
+                "score": 4,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Any survivors of uveal / coroidal melanoma?",
+                "author": "Unlucky-Sod",
+                "authorId": "t2_1ene8klfaz",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1ha4hdp",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1ha4hdp/any_survivors_of_uveal_coroidal_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I was diagnosed 3 weeks ago with a small / medium tumor. Had my brachtherapy a week ago. So far no sign of mets."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "However, reading far and wide, I have yet to find a good news prognosis. The stats seem to indicate 50% at most up to 5 years and 0% up to 10 years."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Are there any known survivors in this community?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 3,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1ha4hdp?m=AQAAIoVmZ0prKcjCkoUi8g4SZQqUUKbCTlgn44SsDtLQav4N6NeO",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1ha2wsv": {
+                "id": "t3_1ha2wsv",
+                "numComments": 0,
+                "created": 1733722960000,
+                "score": 3,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Blood Brain Barrier",
+                "author": "Federal-Lifeguard602",
+                "authorId": "t2_1e8nlr2gd7",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1ha2wsv",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1ha2wsv/blood_brain_barrier/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hi All, we just had a meeting with the radiation oncologist after my husband seen progression on a CT scan for his brain Mets. It was only 2.5weeks after starting immunotherapy when he had the CT (Dr ordered it due to blood shot eyes). The CT showed 6 Mets not sure if they are completely new or old ones growing again as he originally had 8 plus one at the back of his eye. Anyways, because the one behind his eye didn\u2019t come back he is suspecting the immunotherapy is working on the rest of his body but is unable to get past the blood Brian barrier. He wants to commence whole Brian radiation for 3 weeks Monday-Friday. He said radiation in conjunction with immunotherapy can increase the likelihood  of breaking down those blood Brian barrier issues. My question is, how can he tell after 2.5weeks that immunotherapy can\u2019t get through the blood Brian barrier is there not more time we can give that to happen ? Also, had anyone had this happen and radiation helped breaking it down to let it work? Also, what\u2019s the most brain Mets someone has had targeted radiation on as he seems adamant WBR is the way forward? We are meeting our medical oncologist tomorrow so will know more as well. He is back on targeted therapy in the mean time. \u2764\ufe0f\ud83d\ude4f"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1ha2wsv?m=AQAAIoVmZxxQVNrDNAV412HKaQ_5t5Zm0tYVdR1gwtoWYxwXEWtc",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h9h9td": {
+                "id": "t3_1h9h9td",
+                "numComments": 1,
+                "created": 1733658753000,
+                "score": 2,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Biopsy result \u201csuspicious for melanoma\u201d",
+                "author": "ronnie_43381",
+                "authorId": "t2_9oykxq2n",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h9h9td",
+                "upvoteRatio": 0.67,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h9h9td/biopsy_result_suspicious_for_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "My father got a small mass removed from his arm a few weeks ago and the result came back as suspicious for melanoma."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The biopsy didn\u2019t say much but here\u2019s what was on it:"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Margins \u201cunoriented 0.7 \u00d7 0.5 \u00d7 0.2\u201d"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Immunohistochemical stains are performed. The tumor cells are negative for pancytokeratin and positive for s100 and SOX10."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "MICROSCOPIC EXAMINATION:"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The final diagnosis of each specimen incorporates the microscopic examination findings. Microscopic examination is performed on all cases except for gross only cases."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "We\u2019re waiting outside consultation from a cancer specialist but the mass didn\u2019t come back as positive for melanoma this time but I\u2019m to understand that two key markers of melanoma are SOX10 and S100. So what are the chances that he may actually have it?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h9h9td?m=AQAAIoVmZ78rNlt-5VUzM4cTxY26YyCQ8xWVj5gkeAnCg893ZD1C",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h8kcpr": {
+                "id": "t3_1h8kcpr",
+                "numComments": 3,
+                "created": 1733544897000,
+                "score": 8,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Brian met progression after starting immunotherapy ",
+                "author": "Federal-Lifeguard602",
+                "authorId": "t2_1e8nlr2gd7",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h8kcpr",
+                "upvoteRatio": 0.85,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h8kcpr/brian_met_progression_after_starting_immunotherapy/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hello All, my husband has stage 4 metastatic melanoma of the brain, live and lungs. He is BRAF + and started targeted therapy to control Brian Mets for one month then they made the switch to immunotherapy. He had 9 Brian Mets but had an almost complete response to targeted therapy. He had immunotherapy 2.5weeks ago and had a CT scan yesterday that\u2019s showed disease progression, the oncologist  over the phone said more lesions and bigger so god knows how many now. She has stopped immunotherapy now and back on targeted therapy for a week to get back on top of them. My question is does this mean he is not suited to immunotherapy. I don\u2019t know how they will ever be able to switch him with how aggressive and fast growing his tumours seem to be. Is there any hope for us? She wants to see us Tue and asked him to have his family around as well I\u2019m terrified she will say we have no other options. Any works of hope are appreciated we have a 3.5yr old and a 8m old so this is devastating \u2764\ufe0f\ud83e\udd1e"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h8kcpr?m=AQAAIoVmZ7haFWZdFloPFxdWqHKgLY91J2KWWrJAxOIfL9IBdHe_",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h865e5": {
+                "id": "t3_1h865e5",
+                "numComments": 8,
+                "created": 1733504725000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Second Opinion 36(M)",
+                "author": "No-Big-9288",
+                "authorId": "t2_82vaj86p",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h865e5",
+                "upvoteRatio": 0.88,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h865e5/second_opinion_36m/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "A few weeks ago I went to the dermatologist to have a mole checked.  After having them remove it for a biopsy it came back as Melanoma.  I am having surgery in a few weeks to ensure that all of it was removed.  The doctors suggested doing a sentinel node biopsy as well and are leaving the decision up to me.  Based on a lot of the information online that I\u2019ve been reading the prerequisites for having this additional sentinel lymph node biopsy may not be needed.  Just trying to get some opinions or other experience people have had that may have had a similar diagnosis.  I did have an additional biopsy done which came back at roughly 4.5-5% chance that melanoma has a chance of spreading to be in my lymph nodes.  One thing that\u2019s in the back of my mind if reading about complications of lymphedema after the procedure so I\u2019m hesitant to have it done when the percentages and information I\u2019ve been reading are pretty low.  Below is some information based on the biopsy done that may provide some information related to my situation.  Based on the biopsy below it was estimated around 7%, a different biopsy which I'm not exactly sure of the name but was told it was based off of Australian data/research it was 4.5-5%.  Is regular skin checks sufficient or is a sentinel node biopsy suggested/needed?"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Diagnosis 1.Skin, left chest, shave biopsy: -Malignant melanoma arising association with a nevus (see synoptic report)"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Microscopic Description Sections demonstrate biopsy of an asymmetric melanocytic neoplasm with increased numbers of single melanocytes and pagetoid spread of pleomorphic appearing melanocytes within the epidermis. Within the dermis there are both uniform appearing single and nests of melanocytes along with a separate population composed of pleomorphic somewhat epithelioid and hyperchromatic melanocytes. Synoptic Report Location: Left chest Type: Superficial spreading Breslow\u00b4s depth: 0.6mm Mitotic index: 0 <1/mm2 Vertical growth phase: Not identified Ulceration: Absent Vascular invasion: Not seen Lymphatic invasion: Not seen"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "isRichtextPreview": true,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h865e5?m=AQAAIoVmZzG_pG2WoasKaNVZpTc0JdkBNe8neEYjl3g9F2Mp9rge",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h84tzs": {
+                "id": "t3_1h84tzs",
+                "numComments": 0,
+                "created": 1733501390000,
+                "score": 3,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Seeking Persons Diagnosed / Living With Melanoma for Paid Virtual Market Research Study - US Only 18+ $125\u00a0",
+                "author": "freshsqueezedideas",
+                "authorId": "t2_8dqf9qqs",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h84tzs",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "richtext": [
+                            {
+                                "e": "text",
+                                "t": "Research "
+                            }
+                        ],
+                        "type": "richtext",
+                        "textColor": "light",
+                        "backgroundColor": "#4204fb",
+                        "templateId": "1b11cdf8-b340-11ef-97f0-fe43b40279c7"
+                    },
+                    {
+                        "text": "Research ",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#4204fb",
+                        "templateId": "1b11cdf8-b340-11ef-97f0-fe43b40279c7"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h84tzs/seeking_persons_diagnosed_living_with_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hello!\u00a0"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "We are FSi Strategy, an independent healthcare research agency with offices in Canada and the US. We are currently conducting a research study on behalf of a pharmaceutical company and are interested in speaking with persons living with melanoma. To learn more about us and the work we do, please "
+                                    },
+                                    {
+                                        "e": "link",
+                                        "u": "https://www.freshsqueezedideas.com/",
+                                        "t": "visit our website"
+                                    },
+                                    {
+                                        "e": "text",
+                                        "t": ".\u00a0"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Purpose of Research Study: Our goal in speaking to people currently living with or previously diagnosed with melanoma is to learn more about your experience and better understand your melanoma treatment journey. Everything we learn from you will be used to help our client understand these experiences and better support people living with melanoma.\u00a0",
+                                        "f": [
+                                            [
+                                                1,
+                                                0,
+                                                25
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Anyone participating in the research will remain anonymous to the sponsor and only identifiable to FSi (for the purposes of administering payment). At the end of this project, our team will prepare a report of the overall results of the research. The report will not be shared with the public.\u00a0"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "What does the research study entail? If you qualify, you will participate in an individual 60-minute virtual interview. In appreciation of your assistance, and to thank you for your time, an incentive of $125 USD will be provided.\u00a0",
+                                        "f": [
+                                            [
+                                                1,
+                                                0,
+                                                36
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "How do I participate? If you\u2019ve been diagnosed with melanoma, you\u2019re in the US, and you\u2019re over 18 years old, please complete the screener to see if you qualify by registering for a UserInterview account here: ",
+                                        "f": [
+                                            [
+                                                1,
+                                                0,
+                                                21
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "e": "link",
+                                        "u": "https://www.userinterviews.com/projects/-5pIYS3icw/apply",
+                                        "t": "https://www.userinterviews.com/projects/-5pIYS3icw/apply"
+                                    },
+                                    {
+                                        "e": "text",
+                                        "t": "\u00a0"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Qualification Criteria:\u00a0",
+                                        "f": [
+                                            [
+                                                1,
+                                                0,
+                                                23
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "c": [
+                                            {
+                                                "c": [
+                                                    {
+                                                        "e": "text",
+                                                        "t": "Melanoma Stages - IIB, IIC, IIIA, IIIB, IIIC\u00a0"
+                                                    }
+                                                ],
+                                                "e": "par"
+                                            }
+                                        ],
+                                        "e": "li"
+                                    },
+                                    {
+                                        "c": [
+                                            {
+                                                "c": [
+                                                    {
+                                                        "e": "text",
+                                                        "t": "Diagnosed within the last 5 years\u202f\u00a0"
+                                                    }
+                                                ],
+                                                "e": "par"
+                                            }
+                                        ],
+                                        "e": "li"
+                                    },
+                                    {
+                                        "c": [
+                                            {
+                                                "c": [
+                                                    {
+                                                        "e": "text",
+                                                        "t": "Has NOT had adjuvant therapy (no additional treatment after melanoma resection surgery) i.e. no chemo, radiation, immunotherapy or targeted therapy\u202f\u00a0"
+                                                    }
+                                                ],
+                                                "e": "par"
+                                            }
+                                        ],
+                                        "e": "li"
+                                    },
+                                    {
+                                        "c": [
+                                            {
+                                                "c": [
+                                                    {
+                                                        "e": "text",
+                                                        "t": "US residents\u202f, 18+"
+                                                    }
+                                                ],
+                                                "e": "par"
+                                            }
+                                        ],
+                                        "e": "li"
+                                    }
+                                ],
+                                "e": "list",
+                                "o": false
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Privacy and Confidentiality: We care about privacy and confidentiality. All responses are strictly confidential and will be treated in accordance with United States data protection laws and market research ethic guidelines. Any identifying/contact information provided to FSi via the UserInterviews platform will only be used to schedule your interview and to issue your incentive.\u00a0",
+                                        "f": [
+                                            [
+                                                1,
+                                                0,
+                                                27
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "isRichtextPreview": true,
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://external-preview.redd.it/2bOlzP66-mthcmcfMKcB7uZ80pUC85cYzq1uK-6ppoY.jpg?auto=webp&s=c3657d509c7e32f5c021c5746c6305866db9f31c",
+                    "width": 1200,
+                    "height": 1200
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h84tzs?m=AQAAIoVmZ9HyPU_SYnCFEMiLKHAgLbGrBxACwcUnEFT9hQgvZ3CY",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h7scfu": {
+                "id": "t3_1h7scfu",
+                "numComments": 3,
+                "created": 1733456679000,
+                "score": 2,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Next steps?",
+                "author": "mn2flHLD",
+                "authorId": "t2_bgycgxn0",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h7scfu",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h7scfu/next_steps/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I recently had a melanoma spot removed from my back.  It was about the size of a pinky nail but my incision is 4 inches.  Reports came back that the surrounding area is clear."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Tomorrow I go back to get my stitches removed and I just want to be as thorough as possible.  Should they be checking my lymph nodes?  And I really want them to do a better body check.  How often do you go?  Anything else I might want to inquire about?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h7scfu?m=AQAAIoVmZ2J6LLBWgx-2fqffgwqnBu-rVZdb7gYh023FLGFYy5KV",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h7n8bq": {
+                "id": "t3_1h7n8bq",
+                "numComments": 7,
+                "created": 1733441601000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Excisions done ",
+                "author": "usernotfoundhere007",
+                "authorId": "t2_d7yxecw81",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h7n8bq",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h7n8bq/excisions_done/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I just had my second excision done, first one was on my back last week and the second was located on my upper abdomen/right under pectoral muscle."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Overall, pretty mellow process. Did get hit with a slight adrenaline rush but turns out that the lidocaine mixture used did have some epinephrine lol"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Doc said for the back site, zero workouts for at least 1 months, for aesthetics wait 3 months."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "On the chest site, he said zero workouts for 2 months. It's a higher tension sight and the scar can easily stretch and become painful. Mentioned something about Lazer treatment but I need more info on that."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The issue is, I've got a wedding in March and I love the gym as part of my routine. The back scar I could care less about, not an issue. The chest one, from an aesthetics point of view, could also care less about."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "What I am concerned with is the scar becoming painful if I don't wait the 2 months as he suggested."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Has anyone actually had scar pain by working out and not waiting the full 2-3 months?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h7n8bq?m=AQAAIoVmZzxiqG71qWBg_LlbAKonhEjBNt3Hv4mwXnWjTRGHrjaH",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h6zch6": {
+                "id": "t3_1h6zch6",
+                "numComments": 44,
+                "created": 1733368288000,
+                "score": 10,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Diagnosed today stage 3 Melanoma",
+                "author": "The1girlfromtheplace",
+                "authorId": "t2_aw4kq5qe",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h6zch6",
+                "upvoteRatio": 0.92,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h6zch6/diagnosed_today_stage_3_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "36F I got the call today that a spot I had removed last week on my thigh is stage 3 melanoma. I have an appointment to go back in and get the area excised. My question is, they didn\u2019t mention anything about it spreading to lymph nodes or having to remove lymph nodes for testing. Is that normal in advanced stage? Also, is it normal to get this done by a dermatologist? The nurse who called seemed to be trying to make it not a big deal, but I\u2019m worried. I\u2019m going to call back tomorrow to ask some more questions because I was at work when she called and really caught off guard and don\u2019t 100% remember what she said about size. I just don\u2019t know what to expect with this so any information would be so appreciated."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h6zch6?m=AQAAIoVmZzzviYMBY95dmUiCy4yJSn0HVMektPsWOno5VR-Vtpwg",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h689zs": {
+                "id": "t3_1h689zs",
+                "numComments": 17,
+                "created": 1733288423000,
+                "score": 16,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "I cant move on after melanoma",
+                "author": "Accurate_Mulberry_92",
+                "authorId": "t2_lnm1h0ggb",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h689zs",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h689zs/i_cant_move_on_after_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I was diagnosed with stage 1 melanoma at 24 with a 3 month old baby. Lymph node biopsy showed no spread, found 2 more stage 1 melanomas the next year at 25. I\u2019ve been getting regular skin checks every 3 months and see a doctor if I feel off."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "It\u2019s been a mind fuck wrapping my head around melanoma. Fractions of a millimeter can be make or break. They can get really serious or be taken care of and you just go on with life."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "However, I can\u2019t. I\u2019ll never forget the period in between my diagnosis and surgery to determine the stage. With a new baby. I remember sobbing on my nursery floor and having panic attacks about dying and not seeing her grow up. The depression and anxiety spiraled into severe hypochondria, and every sensation registers in my head as life-threatening cancer."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I\u2019m nearly 3 years out from my first one. I no longer have daily panic attacks and crippling depression. I don\u2019t go to the doctor every other week and am kind of \u201cliving my life\u201d again. I want to have another child. Then the thought of a distance recurrence rears its head and I feel like that\u2019s incredible foolish and would be risking my life and my child\u2019s childhood."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I did the Castle Gene test and they\u2019re all Class 1A which is the lowest risk of spreading. I also have no cancer gene mutations. That provided immense relief for a time but now I feel I need more proof I don\u2019t have cancer like a full body MRI or $950 blood test. I can\u2019t even afford that. I want to have another child and move on and be happy but I\u2019m so scared I\u2019ll be tempting fate and not counting the blessings I have. I\u2019m only 26."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I feel incredibly grateful that the melanomas were caught early but it ruined me. Mentally ill never be the same. How do you move on? When did you feel safe getting pregnant again? Looking for hope."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h689zs?m=AQAAIoVmZytKUWB2bcm3HlurJ_Xo16dZvoWvh_Ks2QBvRYQf7lOM",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h66pwu": {
+                "id": "t3_1h66pwu",
+                "numComments": 13,
+                "created": 1733283269000,
+                "score": 4,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Melanoma Diagnosis Questions ",
+                "author": "tamponsmom",
+                "authorId": "t2_hlsnr8vgg",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h66pwu",
+                "upvoteRatio": 0.84,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h66pwu/melanoma_diagnosis_questions/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hi! I (21F) was diagnosed with a melanoma on my left knee today. A shave biopsy was done and found that the mole was 0.8mm and cancerous. I\u2019m meeting with a surgical oncologist to discuss surgery so he can take margins and make sure it didn\u2019t spread to my lymph nodes."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "To anyone who has experienced this, how was surgery? How was recovery? How big/deep was your melanoma?"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Any input is appreciated!!"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Thanks!"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h66pwu?m=AQAAIoVmZ1E34Nj3Nz4EpuzzHkHY-b8z4bJeNDFFPF1Jopx9spwT",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h5j42c": {
+                "id": "t3_1h5j42c",
+                "numComments": 4,
+                "created": 1733215596000,
+                "score": 12,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "My father has melanoma update to old post...",
+                "author": "Extension-Seaweed21",
+                "authorId": "t2_nzafxd4cr",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h5j42c",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h5j42c/my_father_has_melanoma_update_to_old_post/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "He has melanoma pt2b, Clark 4, 8 mitosis"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "He has an 8mm irregular nodule on his left lung and 2 spots on his bones. He's having surgery again to remove another cm of the mole area and the lymph nodes on the 17th. And he should have a pet scan from what I gathered, but I don't know if that will be in January, he hasn't an appointment for that yet."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I'm so scared and I can't stop crying... he's 71 yo and I love him so much"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I hope that someone answers, just to feel some human connection, I'm so so scared.. I think it may be very bad..."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I'm linking the post that I made some months ago when I noticed the spot and was concerned"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Link "
+                                    },
+                                    {
+                                        "e": "link",
+                                        "u": "https://www.reddit.com/r/DermatologyQuestions/s/67LDIGkDoq",
+                                        "t": "https://www.reddit.com/r/DermatologyQuestions/s/67LDIGkDoq"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h5j42c?m=AQAAIoVmZw360DphEVk5uy2hqSxQvPKPNmU3f1iLNd4oPcinSOHu",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h3q2bi": {
+                "id": "t3_1h3q2bi",
+                "numComments": 4,
+                "created": 1733011239000,
+                "score": 5,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "How far to accommodate?",
+                "author": "Whattheheck_61",
+                "authorId": "t2_14xi7patd8",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h3q2bi",
+                "upvoteRatio": 0.78,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h3q2bi/how_far_to_accommodate/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Looking for advice\u2026. My husband m73 has stage iv melanoma with brain metastases in the frontal temporal lobes (which affect his executive functioning and short term memory). He has been through immunotherapy, SRS and has been on targeted therapy for three months. His last PET scan showed great progress with just some small residual cancer in his lymph nodes and brain metastases, while still present, have stopped growing. Things are moving in a positive direction right?! At our last oncologist appoint husband was complaining of the intense fatigue he was experiencing so his onc suggested cutting his dose of the targeted therapy drugs in half to see if it has any effect. We agree and go on our way. Now my husband claims I\u2019m sabotaging his treatment and insists that I give him all of the pills he should be taking. He claims that it\u2019s the targeted therapy drugs that are giving him energy and he needs to take them all. We are due to check in with the onc on how his reduced dosage is working in about two weeks and it seems like a waste of time for us to go to the onc if my husband isn\u2019t taking the reduced dose. How long should I accommodate his misunderstanding of what the doctor is recommending?  He claims that the doctor never said to cut the dose and I must be making it up. I\u2019m thinking to contact the doctor and ask them whether to postpone the appointment. Thanks for reading"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h3q2bi?m=AQAAIoVmZ_XbzTh9ddEnAHIg2HM6vX_E2-GXwAzgNF-a-YZPVaHn",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h1kenw": {
+                "id": "t3_1h1kenw",
+                "numComments": 4,
+                "created": 1732756840000,
+                "score": 7,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Acral lentiginous melanoma",
+                "author": "General-Mastodon9954",
+                "authorId": "t2_1cp37icsa2",
+                "authorIsBlocked": false,
+                "domain": "self.Melanoma",
+                "postId": "t3_1h1kenw",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h1kenw/acral_lentiginous_melanoma/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Anyone here has any idea about the clinical trials going on for acral lentiginous melanoma? Trying to get more information on this for my dad who recently got diagnosed with ALM."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h1kenw?m=AQAAIoVmZ8zmODnpbuKXmWsWLUiVNHkGU1f2-xxxpYIzlmw3cWaa",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h105kg": {
+                "id": "t3_1h105kg",
+                "numComments": 0,
+                "created": 1732698065000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "default",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Immunotherapy side effects good news stories? ",
+                "author": "danb298",
+                "authorId": "t2_e8n7m9",
+                "authorIsBlocked": false,
+                "domain": "",
+                "postId": "t3_1h105kg",
+                "upvoteRatio": 0.88,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2vjxi",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Melanoma/comments/1h105kg/immunotherapy_side_effects_good_news_stories/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": "t3_1h104it",
+                "crosspostParentId": "t3_1h104it",
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h105kg?m=AQAAIoVmZ2JXPT-2ZQL5fqAI7VYQuW55ERHlt8aK591rzjfniKqD",
+                "source": {
+                    "displayText": "",
+                    "url": "/r/melahomies/comments/1h104it/immunotherapy_side_effects_good_news_stories/",
+                    "outboundUrl": "/r/melahomies/comments/1h104it/immunotherapy_side_effects_good_news_stories/",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1h104it": {
+                "id": "t3_1h104it",
+                "numComments": 39,
+                "created": 1732697944000,
+                "score": 9,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Immunotherapy side effects good news stories? ",
+                "author": "danb298",
+                "authorId": "t2_e8n7m9",
+                "authorIsBlocked": false,
+                "domain": "self.melahomies",
+                "postId": "t3_1h104it",
+                "upvoteRatio": 0.84,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_5bsphb",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/melahomies/comments/1h104it/immunotherapy_side_effects_good_news_stories/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I'm due to see my oncologist today, and start Keytruda (pembrolizumab) for a 2c on my forearm soon. Not looking forward to the gamble of side effects, as I've recovered well from my initial excision, WLE and SNLB and I'm (relatively) young, fit, and have always been careful about what I put in my body."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I was wondering if there are people who have good news stories about their experience of treatment?"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "This sub always has lots of people reporting some terrible and very sad stories. When someone posts those sorts of things, of course people with similar experiences typically post to support the OP. I can see that a lot of people who have had better experiences probably aren't going to reply to say so. Maybe they might feel they don't have anything to add, or that it's quite insensitive to reply to someone discussing their major challenges to chip in with \"it was fine for me!\"..."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I wonder if this means the sub tends to look a bit negative for people considering immuno? The proportion of bad side effect posts certainly doesn't seem to correlate to the statistics used by the medics."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "So I wondered if I could stimulate a thread of people who have had mild side effects, or (say it quietly!) none?? Is there a 'quiet minority' or even a 'quiet majority' in this camp?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 1,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1h104it?m=AQAAIoVmZ5_ppDVQz-yeRG9LS9l2W9Xd9ruen5CrmmqmlPw7P-Gi",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            }
+        },
+        "profiles": {},
+        "subreddits": {
+            "t5_2vjxi": {
+                "acceptFollowers": true,
+                "allowChatPostCreation": false,
+                "isChatPostFeatureEnabled": false,
+                "displayText": "r/Melanoma",
+                "type": "public",
+                "id": "t5_2vjxi",
+                "isQuarantined": false,
+                "isNSFW": false,
+                "name": "Melanoma",
+                "url": "/r/Melanoma/",
+                "title": "Melanoma",
+                "icon": {
+                    "url": "",
+                    "width": null,
+                    "height": null
+                },
+                "whitelistStatus": "no_ads",
+                "wls": null,
+                "communityIcon": "https://styles.redditmedia.com/t5_2vjxi/styles/communityIcon_g8gwc997dl3d1.jpg?width=256&s=ebe88d2216d0c173cfe202df918c77147097c088",
+                "primaryColor": "",
+                "subscribers": 10125,
+                "freeFormReports": true,
+                "isEnrolledInNewModmail": true
+            },
+            "t5_5bsphb": {
+                "displayText": "r/melahomies",
+                "id": "t5_5bsphb",
+                "isQuarantined": false,
+                "isNSFW": false,
+                "name": "melahomies",
+                "whitelistStatus": "no_ads",
+                "wls": null,
+                "subscribers": 1830,
+                "url": "/r/melahomies/",
+                "type": "public",
+                "icon": {
+                    "url": "",
+                    "width": null,
+                    "height": null
+                },
+                "acceptFollowers": true,
+                "title": "melahomies",
+                "communityIcon": "https://styles.redditmedia.com/t5_5bsphb/styles/communityIcon_yezzxp7qiz281.png?width=256&s=be5a1f3134678adea8ba50f2a7b78bebd40562bd",
+                "primaryColor": "#373c3f",
+                "allowChatPostCreation": false,
+                "isChatPostFeatureEnabled": false
+            }
+        },
+        "postFlair": {
+            "t5_2vjxi": {
+                "displaySettings": {
+                    "isEnabled": true,
+                    "position": "right"
+                },
+                "permissions": {
+                    "canAssignOwn": true
+                },
+                "templates": {},
+                "templateIds": []
+            },
+            "t5_5bsphb": {
+                "displaySettings": {
+                    "isEnabled": false,
+                    "position": ""
+                }
+            }
+        },
+        "postInstances": {},
+        "token": "t3_1h105kg",
+        "dist": 25,
+        "account": null,
+        "features": null,
+        "listingSort": "new",
+        "subredditPermissions": null,
+        "preferences": null,
+        "subredditAboutInfo": {
+            "t5_2vjxi": {
+                "accountsActive": 6,
+                "advertiserCategory": "",
+                "usingNewModmail": true,
+                "publicDescription": "A support group for patients who have been diagnosed with melanoma, are undergoing treatment, post treatment, recovered/in remission and caregivers and medical staff. This is a place to find support or ask/answer questions about melanoma - please do NOT post here if you are afraid that you might have cancer or have basal cell skin cancer.",
+                "showMedia": true,
+                "subscribers": 10125,
+                "userIsSubscriber": null,
+                "userIsContributor": null,
+                "restrictPosting": true,
+                "restrictCommenting": false,
+                "disableContributorRequests": false,
+                "submitLinkLabel": "",
+                "submitTextLabel": "",
+                "created": 1352885198.0,
+                "acceptFollowers": true,
+                "userIsBanned": false,
+                "emojisEnabled": true,
+                "contentCategory": "",
+                "allOriginalContent": false,
+                "originalContentTagEnabled": false,
+                "hasExternalAccount": false,
+                "isCrosspostableSubreddit": false,
+                "shouldArchivePosts": false,
+                "allowedPostTypes": {
+                    "links": false,
+                    "images": false,
+                    "videos": false,
+                    "text": true,
+                    "spoilers": true,
+                    "polls": true,
+                    "galleries": false,
+                    "talks": false
+                }
+            }
+        },
+        "userFlair": {
+            "t5_2vjxi": {
+                "displaySettings": {
+                    "isUserEnabled": false,
+                    "isEnabled": true,
+                    "position": "left"
+                },
+                "permissions": {
+                    "canUserChange": false,
+                    "canAssignOwn": true
+                },
+                "applied": null,
+                "templates": {},
+                "templateIds": []
+            }
+        },
+        "structuredStyles": null,
+        "nextCursor": "t3_1h104it"
+    }
+}
