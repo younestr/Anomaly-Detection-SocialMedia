@@ -69,7 +69,7 @@ def write_to_csv(data, csv_file):
 
 
 # CSV file header
-csv_file = r'C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\subreddit_posts.csv'
+csv_file = r'C:\Users\xelor\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\subreddit_posts.csv'
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow([
@@ -84,7 +84,7 @@ subreddit_name = input("Enter the subreddit name: ").strip()
 refresh_interval = int(input("Enter refresh interval in seconds (default is 60): ") or 60)
 
 # Directory to save raw JSON data
-json_save_directory = r'C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data'
+json_save_directory = r'C:\Users\xelor\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data'
 
 if not os.path.exists(json_save_directory):
     os.makedirs(json_save_directory)

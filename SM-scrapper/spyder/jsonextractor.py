@@ -3,9 +3,9 @@ import csv
 import os
 
 # File paths
-input_json_path = r"C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\Melanoma_2024-12-20.json"
-output_csv_dir = r"C:\Users\hp\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data"
-output_csv_path = os.path.join(output_csv_dir, "Melanoma_data.csv")
+input_json_path = r"C:\Users\xelor\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data\trees_2024-12-21.json"
+output_csv_dir = r"C:\Users\xelor\Downloads\Anomaly-Detection-SocialMedia\SM-scrapper\data"
+output_csv_path = os.path.join(output_csv_dir, "trees.csv")
 
 # Load your JSON file
 with open(input_json_path, 'r', encoding='utf-8') as file:

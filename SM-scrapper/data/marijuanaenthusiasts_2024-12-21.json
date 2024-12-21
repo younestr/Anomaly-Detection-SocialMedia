@@ -1,0 +1,4074 @@
+{
+    "data": {
+        "authorFlair": {
+            "t5_2uzej": {
+                "Seendhoo_huh": null,
+                "bloobeard": null,
+                "CarSlow8130": null,
+                "WheezingSanta": null,
+                "Reasonable-Grass42": null,
+                "legolego22": null,
+                "pmyourcoffeemug": null,
+                "RubMinute825": null,
+                "whoisjacobjones": null,
+                "ShouldHaveStayedApes": null,
+                "impudentmortal": null,
+                "Caturne3": null,
+                "mhanrahan": null,
+                "mateophx": null,
+                "cattywampus08": null,
+                "SomeDumbGamer": null,
+                "gibagger": null,
+                "sjlilly87": null,
+                "JarJarAwakens": null,
+                "MessyGuy01": null,
+                "Obvious-Function-919": null,
+                "VenomXTs": {
+                    "text": "Outstanding contributor",
+                    "richtext": [],
+                    "type": "text",
+                    "textColor": "dark",
+                    "backgroundColor": "",
+                    "templateId": null
+                },
+                "fixitinpost": null,
+                "DrowBot64": null
+            },
+            "t5_2wyqx": {
+                "ShouldHaveStayedApes": null
+            },
+            "t5_2stku": {
+                "JarJarAwakens": null
+            }
+        },
+        "postIds": [
+            "t3_1hjdmb7",
+            "t3_1hjdlu4",
+            "t3_1hixf06",
+            "t3_1hivx3u",
+            "t3_1hivw75",
+            "t3_1hisy44",
+            "t3_1hiqhdb",
+            "t3_1hiphed",
+            "t3_1hi81jq",
+            "t3_1hhx0xm",
+            "t3_1hhpdsr",
+            "t3_1hhchew",
+            "t3_1hhbadu",
+            "t3_1hh9d8f",
+            "t3_1hh8r6p",
+            "t3_1hgu2lr",
+            "t3_1hgt7n5",
+            "t3_1hgsczz",
+            "t3_1hgo9o7",
+            "t3_1hgo7b9",
+            "t3_1hga4tt",
+            "t3_1hfyedi",
+            "t3_1hfvw5c",
+            "t3_1hftpn2",
+            "t3_1hfr9rc"
+        ],
+        "posts": {
+            "t3_1hjdmb7": {
+                "id": "t3_1hjdmb7",
+                "numComments": 0,
+                "created": 1734799421000,
+                "score": 0,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/dFgKLpO9omhi08-G7y82zEdEzi-af6Q3Oge-uNuBeAM.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Bougainvillea ",
+                "author": "Seendhoo_huh",
+                "authorId": "t2_7tz1hgng",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hjdmb7",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hjdmb7/bougainvillea/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/zq8v0cecd88e1.jpeg",
+                    "type": "image",
+                    "width": 1080,
+                    "height": 1916,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=108&crop=smart&auto=webp&s=1009a1aa69211cd750e2534aece51bfeae50bec2",
+                            "width": 108,
+                            "height": 191
+                        },
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=216&crop=smart&auto=webp&s=648c8f144f21360da57d76f1730fd2dd93d57a56",
+                            "width": 216,
+                            "height": 383
+                        },
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=320&crop=smart&auto=webp&s=909db9de22097925b2ccf3ce9ddcb5e2ee50518a",
+                            "width": 320,
+                            "height": 567
+                        },
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=640&crop=smart&auto=webp&s=02f3e10db9185bf6e0cc213cea515f957d42e4a5",
+                            "width": 640,
+                            "height": 1135
+                        },
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=960&crop=smart&auto=webp&s=07edadeeab848c05feaea6e0947965c9b697373b",
+                            "width": 960,
+                            "height": 1703
+                        },
+                        {
+                            "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?width=1080&crop=smart&auto=webp&s=0b1a7498f893ee4a267b69826c7b56cec908d8d5",
+                            "width": 1080,
+                            "height": 1916
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/zq8v0cecd88e1.jpeg?auto=webp&s=14fe13c02cfd5399262a63e4c605010732fd8c8a",
+                    "width": 1080,
+                    "height": 1916
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hjdmb7?m=AQAA_0toZ1mO8zQN1jmIzomAh6oSyTBsEhndWy2XkcZdIu92Uhvr",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": true
+            },
+            "t3_1hjdlu4": {
+                "id": "t3_1hjdlu4",
+                "numComments": 0,
+                "created": 1734799381000,
+                "score": 0,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/DeNC7vZY57MRtPHBSTDIZMMIOhLzm4v0fRElbZgC-Iw.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Bombax Ceiba/Palash phool",
+                "author": "Seendhoo_huh",
+                "authorId": "t2_7tz1hgng",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hjdlu4",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hjdlu4/bombax_ceibapalash_phool/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/s9tvzb78d88e1.jpeg",
+                    "type": "image",
+                    "width": 3024,
+                    "height": 4032,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=108&crop=smart&auto=webp&s=af78724127303dd30ca4acf78a5dd0e7d574962f",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=216&crop=smart&auto=webp&s=b3c60373a39d7656fa68570c7b782ec031c46fdb",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=320&crop=smart&auto=webp&s=409ac62264efdf0ee03d699a4e2277ab5a1ef55d",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=640&crop=smart&auto=webp&s=3c5cf34bf09d1a7bb89e45ccd4636fa6d8d8657a",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=960&crop=smart&auto=webp&s=f10039d0912d74c4a2a930530364f563d244768e",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?width=1080&crop=smart&auto=webp&s=c1d967671460cf1df2a4d72e28cc72346fc78cd3",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/s9tvzb78d88e1.jpeg?auto=webp&s=1d12945bb0bad3aa025beef8111b7cc514b05c75",
+                    "width": 3024,
+                    "height": 4032
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hjdlu4?m=AQAA_0toZwiHwtRIKjhnmtXIRScWP_LJy34he6sjR844IfIPrl2d",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": true
+            },
+            "t3_1hixf06": {
+                "id": "t3_1hixf06",
+                "numComments": 4,
+                "created": 1734739324000,
+                "score": 1,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Does this Chinese Elm look right?",
+                "author": "bloobeard",
+                "authorId": "t2_8nmgu",
+                "authorIsBlocked": false,
+                "domain": "self.marijuanaenthusiasts",
+                "postId": "t3_1hixf06",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hixf06/does_this_chinese_elm_look_right/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Had a landscaping company plant some trees on our property, including this Chinese lacebark elm. Our neighborhood has many mature versions, so I\u2019ve never seen a small tree like this to compare. The bark looks interesting, like lots of suckers over time, not as smooth as I expected for a lacebark elm. It also seems more like a \u201clollipop\u201d than I expected. The leaves also aren\u2019t turning yellow (I was told this is a standard variety which I expected to have some leaf loss). We\u2019re in zone 10a."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Am I being paranoid about the tree, or does this seem alright for a lacebark elm?"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "link",
+                                        "u": "https://imgur.com/a/rapoeHH",
+                                        "t": "https://imgur.com/a/rapoeHH"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://external-preview.redd.it/h-TD9NZ5nYORoOqJ0aJdYfefw04hM9U5Auvw2Dfa96s.jpg?auto=webp&s=6bfdcc6387d250368b62bf59857fe07004556836",
+                    "width": 1536,
+                    "height": 2048
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hixf06?m=AQAA_0toZ8R_NQHqz0Z_4aHUojdRn32ehfqS4eQeQYVO3vYUv4OF",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hivx3u": {
+                "id": "t3_1hivx3u",
+                "numComments": 2,
+                "created": 1734734897000,
+                "score": 3,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "needing help starting Paulownia Elongata from seed.",
+                "author": "CarSlow8130",
+                "authorId": "t2_93m6ivb4w",
+                "authorIsBlocked": false,
+                "domain": "self.marijuanaenthusiasts",
+                "postId": "t3_1hivx3u",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hivx3u/needing_help_starting_paulownia_elongata_from_seed/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I live in southern oklahoma (zone 7a) for the past 2 months I have been trying to start my paulownia Elongata trees from seed with very little success. I soaked the seeds in water for a month then moved the sprouted seeds into trays, the seeds did great for maybe a week then they all just randomly died. I would love to hear literally any insight or advice on how to start these seeds correctly. thank you."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hivx3u?m=AQAA_0toZ0oWsSmyiH0TXAJyIts-FEmF1ypNaBzUh6207zWV1ZOx",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hivw75": {
+                "id": "t3_1hivw75",
+                "numComments": 7,
+                "created": 1734734823000,
+                "score": 20,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://a.thumbs.redditmedia.com/VtYhUJ9hImNaJEO3K9XN3MqPw0coLI9eWKlp2ip89t4.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "I\u2019ve been training this branch of my weeping Santa Rosa plum tree over our patio for shade. Should I be worried about it being too heavy when fruiting? ",
+                "author": "WheezingSanta",
+                "authorId": "t2_bp1b6j84",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hivw75",
+                "upvoteRatio": 0.87,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hivw75/ive_been_training_this_branch_of_my_weeping_santa/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "51c3wwr9138e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=108&crop=smart&auto=webp&s=efcd38833c5d2ae248ac4b5e49fc73c1abea2dfd"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=216&crop=smart&auto=webp&s=781f6ed87454082c28881360ee1393162e3ff8bb"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=320&crop=smart&auto=webp&s=9a5e9c653b83de8fb3fdf83f96b8983d4038ca76"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=640&crop=smart&auto=webp&s=9d217a6b55e63c03f88008279220f6678e74a523"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=960&crop=smart&auto=webp&s=2397c4486343c92888d78c96b3b4b50efffd4b34"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=1080&crop=smart&auto=webp&s=7bef6be72122bc62a8ab3a6c05168f40d46d33e1"
+                                }
+                            ],
+                            "s": {
+                                "y": 4284,
+                                "x": 5712,
+                                "u": "https://preview.redd.it/51c3wwr9138e1.jpg?width=5712&format=pjpg&auto=webp&s=cc0714a2432d4cecda91dbaadf14daedcc5e944f"
+                            },
+                            "id": "51c3wwr9138e1"
+                        },
+                        "fsukswr9138e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=108&crop=smart&auto=webp&s=f534e63cabc65f9643d28e9945b4a6d65401c060"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=216&crop=smart&auto=webp&s=a0b015d701559c7622ea055db39633dc0dde8212"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=320&crop=smart&auto=webp&s=31a6bb5f08e5cf08b548258aba35a0014bb42cd0"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=640&crop=smart&auto=webp&s=c5407e6f6a305672f49d1f72034b630a4560b418"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=960&crop=smart&auto=webp&s=ca31a0ed308182dd034c85b54387f69b624dddf7"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=1080&crop=smart&auto=webp&s=5ad440185f73c43b1802d45b5fa68885c62cd067"
+                                }
+                            ],
+                            "s": {
+                                "y": 4284,
+                                "x": 5712,
+                                "u": "https://preview.redd.it/fsukswr9138e1.jpg?width=5712&format=pjpg&auto=webp&s=f3ec66a603e25e6372c28c2a5d306e4b5111a856"
+                            },
+                            "id": "fsukswr9138e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "mediaId": "fsukswr9138e1",
+                                "id": 571377158
+                            },
+                            {
+                                "mediaId": "51c3wwr9138e1",
+                                "id": 571377159
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hivw75?m=AQAA_0toZzdrJMRfwdMrJdGPnYoYCZtJkMWLDZyfw2igsEddG1RC",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hivw75",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hivw75",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hisy44": {
+                "id": "t3_1hisy44",
+                "numComments": 4,
+                "created": 1734726529000,
+                "score": 1,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Planting conifers in winter? (7b)",
+                "author": "Reasonable-Grass42",
+                "authorId": "t2_17704k545m",
+                "authorIsBlocked": false,
+                "domain": "self.marijuanaenthusiasts",
+                "postId": "t3_1hisy44",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hisy44/planting_conifers_in_winter_7b/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Virginia pine and eastern red cedar need to be planted"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hisy44?m=AQAA_0toZ4dsJNBw8kotbMyiy5ldkiDh7r7g419D5AKKgew2ZpgN",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hiqhdb": {
+                "id": "t3_1hiqhdb",
+                "numComments": 9,
+                "created": 1734719864000,
+                "score": 8,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/dacqy38PVSUe0s3ASqn2g9iZ3_tiwVPZ5jXjXxasEfg.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "What is happening to my Palo verde tree?",
+                "author": "legolego22",
+                "authorId": "t2_lluxoyg",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hiqhdb",
+                "upvoteRatio": 0.75,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hiqhdb/what_is_happening_to_my_palo_verde_tree/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/44pmy5dss18e1.jpeg",
+                    "type": "image",
+                    "width": 3024,
+                    "height": 4032,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=108&crop=smart&auto=webp&s=6049b5df9c906c8014cce53929884862dde83ffd",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=216&crop=smart&auto=webp&s=75825057c4d3c734335ec00d85f2a5ab8327106b",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=320&crop=smart&auto=webp&s=0d88dc07e36cf029c40b476d66947cd02642c3f0",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=640&crop=smart&auto=webp&s=5d4fc9d687522d226faf8ee6f5b6ed3621a85f15",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=960&crop=smart&auto=webp&s=32c50ed45431b5a02eece82088f92e55335888ad",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?width=1080&crop=smart&auto=webp&s=da03e10d281006c49a5c01fcf7d5dd7b05c52ce2",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Here is my Palo verde tree and I recently about a month ago transplanted it. And only a few days ago, I had moved again to the back yard because the tree was starting to become yellow. I suspected rot because other plants were rotting in the soil I planted it in. Not completely sure it is rot,but I think it might be. Don\u2019t know why almost all my desert plants are rotting in their native soil. Also I did fertilize this tree as soon as I moved it. Hope I can save it!"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/44pmy5dss18e1.jpeg?auto=webp&s=6297ff586d018daf19d20c45c928c7424c70a1c8",
+                    "width": 3024,
+                    "height": 4032
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hiqhdb?m=AQAA_0toZ8OzSUK3lmHDDkEWxO_20z2wba3pJjTchYjAFk6hla3O",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hiphed": {
+                "id": "t3_1hiphed",
+                "numComments": 2,
+                "created": 1734717220000,
+                "score": 77,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/MP3w-If2Go21bYeN-v4FXhbpvmkp03nf2j5jBxPzxlk.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Last flowers of the year",
+                "author": "pmyourcoffeemug",
+                "authorId": "t2_bmujjb76",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hiphed",
+                "upvoteRatio": 0.97,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hiphed/last_flowers_of_the_year/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/6ze3xc3xk18e1.jpeg",
+                    "type": "image",
+                    "width": 3024,
+                    "height": 4032,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=108&crop=smart&auto=webp&s=a402668d14eeba35627d7bc16d656acfa3f60f09",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=216&crop=smart&auto=webp&s=1245e17d3bca869fcf8a45e0742edde745176197",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=320&crop=smart&auto=webp&s=c63cbddf36fbb30b06fa65e22f1a177fecedf93d",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=640&crop=smart&auto=webp&s=92e373764c77b4190ed8f9b054846ba70926332b",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=960&crop=smart&auto=webp&s=a00f1563ef52cedfacdea949b38e6e38fb6b2cc2",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?width=1080&crop=smart&auto=webp&s=8e41769cbb9ce379f0800f9f0cd9539f1dfac371",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/6ze3xc3xk18e1.jpeg?auto=webp&s=97b8b53d04853d7b6178d9c47e1f167319243e97",
+                    "width": 3024,
+                    "height": 4032
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hiphed?m=AQAA_0toZzwNTloQp2Ni78VTAT6eAi1G9MNwBYAF_yCcm_w7_NEj",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hi81jq": {
+                "id": "t3_1hi81jq",
+                "numComments": 2,
+                "created": 1734656339000,
+                "score": 2,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/KlArYObQwldO67WylymJmGmoOgyyz1qLCFP1648vWlU.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "What tree? ",
+                "author": "RubMinute825",
+                "authorId": "t2_d3l5alz5",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hi81jq",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hi81jq/what_tree/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/za3pzi1wjw7e1.jpeg",
+                    "type": "image",
+                    "width": 3060,
+                    "height": 4080,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=108&crop=smart&auto=webp&s=e4441151fe7a1e82a2631b0ee9675f830df508a0",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=216&crop=smart&auto=webp&s=942f8f522fdba3e9bf7e8d9db4151723f27875fe",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=320&crop=smart&auto=webp&s=17e0af83ce9db706f1382cef1cf4361694e34dc2",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=640&crop=smart&auto=webp&s=eeace32695bd0f368590b6c225e249d767903fb0",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=960&crop=smart&auto=webp&s=ea67d6bcf5f9a067e6ab8d6bbf085ad235d17ee4",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?width=1080&crop=smart&auto=webp&s=efc3f626328acfed669b23e3ab4ede9cd17756b2",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/za3pzi1wjw7e1.jpeg?auto=webp&s=7ec015868411d3653af77e83d95a7c8cf1d3e4a5",
+                    "width": 3060,
+                    "height": 4080
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hi81jq?m=AQAA_0toZ4QA8vD9pYm2DAcgEBBBBbykfDq2PTEuu3_QuY7ZXLvL",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhx0xm": {
+                "id": "t3_1hhx0xm",
+                "numComments": 6,
+                "created": 1734626529000,
+                "score": 176,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/e2VLb_GsKkf57U7ujNhc6tTncIglFrf6jTLzE9HHvzM.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Scribble drawing of a crooked tree in the winter",
+                "author": "whoisjacobjones",
+                "authorId": "t2_ncenb",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hhx0xm",
+                "upvoteRatio": 0.97,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hhx0xm/scribble_drawing_of_a_crooked_tree_in_the_winter/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/afg76nv83u7e1.jpeg",
+                    "type": "image",
+                    "width": 3024,
+                    "height": 4032,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=108&crop=smart&auto=webp&s=b0c9feae157c70cd0570a8bf695446c86d09d71a",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=216&crop=smart&auto=webp&s=c49186ab231d0e21eb28fa6af37d0c1c021ae70d",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=320&crop=smart&auto=webp&s=03d2fdc2ad71ce1b170ceb5e6ae89d49dc5168e1",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=640&crop=smart&auto=webp&s=c2f8546bce9fbd1062b29b2d2482fc42a61bf27e",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=960&crop=smart&auto=webp&s=f27eab76ff629d718bd3fe31214c21420850df41",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?width=1080&crop=smart&auto=webp&s=c11da5546b39c38d34b099489d0985385cfbbfab",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hey there, newbie to the sub. I drew this in 2011 while sitting in a park. I\u2019m curious if any tree wizards may be able to identify what tree I was looking at? I also thought the art may be interesting to members of this sub. (I love trees)"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/afg76nv83u7e1.jpeg?auto=webp&s=f25d6d3dc10d56a561037ebdfbe581894976663e",
+                    "width": 3024,
+                    "height": 4032
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhx0xm?m=AQAA_0toZ5ZyK7o0hJgyd7kH7SSViiBGZZquRN4CgXe_4Sr5BVnE",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhpdsr": {
+                "id": "t3_1hhpdsr",
+                "numComments": 11,
+                "created": 1734601262000,
+                "score": 27,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://a.thumbs.redditmedia.com/NpH5d3SVr11Nzrr6nTREddPX17efjQfb3TQ6FE0DkG8.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Sago Palm at 25 F",
+                "author": "ShouldHaveStayedApes",
+                "authorId": "t2_7060yz74",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hhpdsr",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hhpdsr/sago_palm_at_25_f/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/b9jvx7svno7e1.jpeg",
+                    "type": "image",
+                    "width": 960,
+                    "height": 1280,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=108&crop=smart&auto=webp&s=6bec8480bdeed03656e0f354829651f305d23790",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=216&crop=smart&auto=webp&s=e6d4bb73661af0283d07cd0214f67c0083f04acb",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=320&crop=smart&auto=webp&s=b8a20f6eebd16d1c9a0c84b0e0a3d64f82c2365b",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=640&crop=smart&auto=webp&s=71e0d84e431f5902ba697b4334d9f1b36134dc22",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=960&crop=smart&auto=webp&s=f3c8b85ffb306911cd986b3e0cecabd0a61f7bbd",
+                            "width": 960,
+                            "height": 1280
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?auto=webp&s=e72905b0b82ae2a88986408d26204080221840a9",
+                    "width": 960,
+                    "height": 1280
+                },
+                "crosspostRootId": "t3_1hhdmzs",
+                "crosspostParentId": "t3_1hhdmzs",
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhpdsr?m=AQAA_0toZ2HOx4cuInsdzNFN7cq3uXTScZCjZPminVE0j7ljU3g-",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhdmzs": {
+                "id": "t3_1hhdmzs",
+                "numComments": 8,
+                "created": 1734560825000,
+                "score": 11,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://a.thumbs.redditmedia.com/NpH5d3SVr11Nzrr6nTREddPX17efjQfb3TQ6FE0DkG8.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Sago Palm at 25 F",
+                "author": "ShouldHaveStayedApes",
+                "authorId": "t2_7060yz74",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hhdmzs",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2wyqx",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/Cycads/comments/1hhdmzs/sago_palm_at_25_f/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/b9jvx7svno7e1.jpeg",
+                    "type": "image",
+                    "width": 960,
+                    "height": 1280,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=108&crop=smart&auto=webp&s=6bec8480bdeed03656e0f354829651f305d23790",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=216&crop=smart&auto=webp&s=e6d4bb73661af0283d07cd0214f67c0083f04acb",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=320&crop=smart&auto=webp&s=b8a20f6eebd16d1c9a0c84b0e0a3d64f82c2365b",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=640&crop=smart&auto=webp&s=71e0d84e431f5902ba697b4334d9f1b36134dc22",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?width=960&crop=smart&auto=webp&s=f3c8b85ffb306911cd986b3e0cecabd0a61f7bbd",
+                            "width": 960,
+                            "height": 1280
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "\"I bought this medium-sized sago along with a very small one from different nurseries. The small one is perfectly fine after a 25\u00b0F frost 3 days ago, while this one has turned completely crisp. Can anyone explain? This winter has been very dry so i water them every 15 days. Can it be the frost that did it? Or too much dampness coupled with the low temperatures? How long will it take if it recovers?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/b9jvx7svno7e1.jpeg?auto=webp&s=e72905b0b82ae2a88986408d26204080221840a9",
+                    "width": 960,
+                    "height": 1280
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 2,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhdmzs?m=AQAA_0toZ33LQEE6quMrRNWz36VLifvE6j5-IwHIFbw4kkVz_9Ym",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhchew": {
+                "id": "t3_1hhchew",
+                "numComments": 5,
+                "created": 1734557818000,
+                "score": 11,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/ahDi0f7avz7ipap597oR0PAiOhO7LWdF6LAC1jjhBOc.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "Need help identifying a tree/flower from 1950s Saigon, Vietnam",
+                "author": "impudentmortal",
+                "authorId": "t2_6id19",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hhchew",
+                "upvoteRatio": 0.83,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hhchew/need_help_identifying_a_treeflower_from_1950s/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/nwb0pesteo7e1.png",
+                    "type": "image",
+                    "width": 4096,
+                    "height": 3094,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=108&crop=smart&auto=webp&s=92be9350f646f68965f481dc9cfd95acfaed7a89",
+                            "width": 108,
+                            "height": 81
+                        },
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=216&crop=smart&auto=webp&s=8ebacc9819989916e52706181ca9ad61c5eba539",
+                            "width": 216,
+                            "height": 163
+                        },
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=320&crop=smart&auto=webp&s=8b90eeebbde79c64f2270bd0fa8c8ed4bad66877",
+                            "width": 320,
+                            "height": 241
+                        },
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=640&crop=smart&auto=webp&s=d430bc452b8a491103f6ea2584d1b9aa3651486c",
+                            "width": 640,
+                            "height": 483
+                        },
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=960&crop=smart&auto=webp&s=19ed95614e7b0c3163b5004c38abb2d85729a679",
+                            "width": 960,
+                            "height": 725
+                        },
+                        {
+                            "url": "https://preview.redd.it/nwb0pesteo7e1.png?width=1080&crop=smart&auto=webp&s=c12453dd89e7b8673bcf433e80a4f0a11d7b10fa",
+                            "width": 1080,
+                            "height": 815
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/nwb0pesteo7e1.png?auto=webp&s=c13775095dfbf99cf2289b73b12f0863cf90785d",
+                    "width": 4096,
+                    "height": 3094
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhchew?m=AQAA_0toZwq5vh-63P6EdJiOVXMflLHAzAB4hs8HLKHKNBTrE4r-",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hhbadu": {
+                "id": "t3_1hhbadu",
+                "numComments": 4,
+                "created": 1734554703000,
+                "score": 2,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "NC 8a Saucer Magnolia Question",
+                "author": "Caturne3",
+                "authorId": "t2_b2ul7",
+                "authorIsBlocked": false,
+                "domain": "self.marijuanaenthusiasts",
+                "postId": "t3_1hhbadu",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hhbadu/nc_8a_saucer_magnolia_question/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Hello!"
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "We are purchasing a 5-6ft tall saucer magnolia for my mothers Christmas gift and curious about planting timeframe. The nursery is right down the street; we can get the tree whenever and is coming from and identical climate, it\u2019s a 30 gallon rootball so an \u201cestablished tree\u201d in my head. My mother is thinks we need to wait until spring and is worried about the cold/frost coming. I think we could plant now ish\u2026.? \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f it isn\u2019t a new delicate flower but I\u2019m no expert."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Has been a mild fall with lots of rain. Our winters have turned mild and wet also. Currently almost 70F but lows drop to 22F next week in the evening."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Let me know if any further info is needed, thanks!"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hhbadu?m=AQAA_0toZxASR0YoPh0ld7yr5o3My9ptbiUjrLOgLg-bjivjM1qh",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hh9d8f": {
+                "id": "t3_1hh9d8f",
+                "numComments": 4,
+                "created": 1734549715000,
+                "score": 386,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/09J1jFDt4MmxcdYJCFTFDi-3CpOROuacjDT9cClOjwI.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "A huge Ceiba pentandra tree with spectacular buttresses that reach into the jungle, Soberan\u00eda National Park, Panama",
+                "author": "mhanrahan",
+                "authorId": "t2_a792h",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hh9d8f",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hh9d8f/a_huge_ceiba_pentandra_tree_with_spectacular/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/turu0fjsqn7e1.jpeg",
+                    "type": "image",
+                    "width": 960,
+                    "height": 720,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?width=108&crop=smart&auto=webp&s=091f38fe6dd20668398891bbf790702beebd8ded",
+                            "width": 108,
+                            "height": 81
+                        },
+                        {
+                            "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?width=216&crop=smart&auto=webp&s=e28489ec2bae5da451ba45f1817f090c6e8d7c2f",
+                            "width": 216,
+                            "height": 162
+                        },
+                        {
+                            "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?width=320&crop=smart&auto=webp&s=541fa11b0ab97349ca0438bf3f02f45a6831a62e",
+                            "width": 320,
+                            "height": 240
+                        },
+                        {
+                            "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?width=640&crop=smart&auto=webp&s=b342870c2a5ebdaab98a574961056627868513d0",
+                            "width": 640,
+                            "height": 480
+                        },
+                        {
+                            "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?width=960&crop=smart&auto=webp&s=e632d8438eb3ea19d7c656fe8c93dc7f6afdd32b",
+                            "width": 960,
+                            "height": 720
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/turu0fjsqn7e1.jpeg?auto=webp&s=585e7cc1fa58e6e4bfebbbba276bf67944416ac4",
+                    "width": 960,
+                    "height": 720
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hh9d8f?m=AQAA_0toZ7tlcaATXakGcfSUliU2EenbZdbOnlhK8v7W_VbQ6nBa",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hh8r6p": {
+                "id": "t3_1hh8r6p",
+                "numComments": 41,
+                "created": 1734548155000,
+                "score": 796,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/CgFMevpJ3ErgVqmh6ZCf9L3dJcTGIM0Y4gCth8PUVnA.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Huge lemons, bandana for scale ",
+                "author": "mateophx",
+                "authorId": "t2_a65vt",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hh8r6p",
+                "upvoteRatio": 0.98,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hh8r6p/huge_lemons_bandana_for_scale/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/rxvo0pg7mn7e1.jpeg",
+                    "type": "image",
+                    "width": 3000,
+                    "height": 4000,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=108&crop=smart&auto=webp&s=110113c644d10ccd8f9f85588b03a0bc0a8c217f",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=216&crop=smart&auto=webp&s=8e2ebd94ceac73d0ac86832d266d7e7a135b103e",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=320&crop=smart&auto=webp&s=edc3e7ea971b79d280338aa3234fe03d00c617cb",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=640&crop=smart&auto=webp&s=d9ae1c7824ddd6d3532de65c45e8a04fbfdbf53a",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=960&crop=smart&auto=webp&s=267bf5d819bd3a0a46a498e5359bd6a07fa50cc6",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?width=1080&crop=smart&auto=webp&s=bdffa0b58d07a0ce7734509464cd3237b9153b41",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "What variety could they be?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/rxvo0pg7mn7e1.jpeg?auto=webp&s=33426c9808fcbd7878991bf14cdad3098963b7e9",
+                    "width": 3000,
+                    "height": 4000
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 1,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hh8r6p?m=AQAA_0toZ7JUhmG8LpkgQUGszrx_sz8HMYiDTG4-RoI703FTi5H4",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgu2lr": {
+                "id": "t3_1hgu2lr",
+                "numComments": 0,
+                "created": 1734497223000,
+                "score": 34,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/w96H8ulSeRcgqKbRP3JGGenhJkilrGPBLwAp4UuT6CU.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Inside the ring",
+                "author": "cattywampus08",
+                "authorId": "t2_yaln4",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hgu2lr",
+                "upvoteRatio": 0.94,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hgu2lr/inside_the_ring/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/3mri4z7rej7e1.jpeg",
+                    "type": "image",
+                    "width": 750,
+                    "height": 1334,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/3mri4z7rej7e1.jpeg?width=108&crop=smart&auto=webp&s=279e46296d9e9309fbecf6cb2ef089f0ba68cee7",
+                            "width": 108,
+                            "height": 192
+                        },
+                        {
+                            "url": "https://preview.redd.it/3mri4z7rej7e1.jpeg?width=216&crop=smart&auto=webp&s=4c06b54ec50bb4194883a52ee2cd12272579a11e",
+                            "width": 216,
+                            "height": 384
+                        },
+                        {
+                            "url": "https://preview.redd.it/3mri4z7rej7e1.jpeg?width=320&crop=smart&auto=webp&s=fe0746f1e126e68d352beacc77589f8d9cd0a2f2",
+                            "width": 320,
+                            "height": 569
+                        },
+                        {
+                            "url": "https://preview.redd.it/3mri4z7rej7e1.jpeg?width=640&crop=smart&auto=webp&s=9ede2eff026e5d9220e61350667d24eb8bd8c14f",
+                            "width": 640,
+                            "height": 1138
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/3mri4z7rej7e1.jpeg?auto=webp&s=35f0ac4f82a8184ca995884f4031aae551af2d17",
+                    "width": 750,
+                    "height": 1334
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgu2lr?m=AQAA_0toZ_e8pXP3Cyi3-7utQnXTG5hwp_no9gASJOwfMQB0EdYi",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgt7n5": {
+                "id": "t3_1hgt7n5",
+                "numComments": 0,
+                "created": 1734494313000,
+                "score": 88,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://a.thumbs.redditmedia.com/3F_3BEdOX1iLjlv2VBfVfsTc7g_dUqMe6qDe2MBgmb8.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "An old survivor! 200+ year old white oak in the woods of southern New England.",
+                "author": "SomeDumbGamer",
+                "authorId": "t2_ftm8gi6",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hgt7n5",
+                "upvoteRatio": 0.99,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hgt7n5/an_old_survivor_200_year_old_white_oak_in_the/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "3nd5t0g26j7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=108&crop=smart&auto=webp&s=501b47f5ecc7ed6de890bc290a1e43ee93209910"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=216&crop=smart&auto=webp&s=ffc22fcc354fa8d74dc14f08da732de1e2ab8434"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=320&crop=smart&auto=webp&s=1750ca048d1e41d006decb21bf34e67014bcdf71"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=640&crop=smart&auto=webp&s=73b8b975c27807f2feb77548ca2ca665e1dd15a7"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=960&crop=smart&auto=webp&s=90e64949ca1f50c824b257deba20e0b6d464fc31"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=1080&crop=smart&auto=webp&s=333a09ad1509fe3f1b7a0adb350b27556513786f"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/3nd5t0g26j7e1.jpg?width=3024&format=pjpg&auto=webp&s=f766d3784b38cfc858f307833e9f724ae356752f"
+                            },
+                            "id": "3nd5t0g26j7e1"
+                        },
+                        "i0knv0g26j7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=108&crop=smart&auto=webp&s=60258777fa1562532e19a835e059922dab81b108"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=216&crop=smart&auto=webp&s=97ab0c3072c9ef0e87cae15dad83cd1371ce8deb"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=320&crop=smart&auto=webp&s=7ae24610b438b5a0a4cc7a61dad4694de125e917"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=640&crop=smart&auto=webp&s=0eb008f6773d0f5fa800293774807753a9b08f27"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=960&crop=smart&auto=webp&s=3570f301b0c75f6913d496883120e497949138cf"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=1080&crop=smart&auto=webp&s=cbf66aa7eb0616dd630e26142625818b65d130dd"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/i0knv0g26j7e1.jpg?width=3024&format=pjpg&auto=webp&s=aa32775f330cfe25644770a3918471f154c825bc"
+                            },
+                            "id": "i0knv0g26j7e1"
+                        },
+                        "voal41g26j7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=108&crop=smart&auto=webp&s=9f9bdf1eaa7e12667c1260c99299bbc778abf205"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=216&crop=smart&auto=webp&s=a0412e33b3f2336134783db8d313bfabee2e39b8"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=320&crop=smart&auto=webp&s=be991b9c402006df6c0270c1a622cdc61a8a6349"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=640&crop=smart&auto=webp&s=51f06bb6b6d2b30a3815c5d55f0ea53e8198c5db"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=960&crop=smart&auto=webp&s=c56baed599ba900570fc63d23f55622d61c72550"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=1080&crop=smart&auto=webp&s=47c70bcf5fca864d091a2099ce6570c8f4783f4b"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/voal41g26j7e1.jpg?width=3024&format=pjpg&auto=webp&s=2c97242232ae5f6344d080d8d5e89c2abc3b397e"
+                            },
+                            "id": "voal41g26j7e1"
+                        },
+                        "c1sz4bg26j7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=108&crop=smart&auto=webp&s=f7265b754dd01deb2dabf2933d785b2a92aa85f2"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=216&crop=smart&auto=webp&s=7a7a395f929fb3ea7761ffa9017bcd73cd550d38"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=320&crop=smart&auto=webp&s=7cb7fff4ee50cdaadee8a4a2951d1a684b453edf"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=640&crop=smart&auto=webp&s=801de2cb6578891ccc0d483ffc6470c7da883d08"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=960&crop=smart&auto=webp&s=2690e249c5ccfda0b7f194b5d217918ab56abbc1"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=1080&crop=smart&auto=webp&s=ad3bff36166b74075d2e31db8fe7b9539c627951"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/c1sz4bg26j7e1.jpg?width=3024&format=pjpg&auto=webp&s=af636e5eac5986ecf4703297adc7b9a5925b5ad3"
+                            },
+                            "id": "c1sz4bg26j7e1"
+                        },
+                        "18bir0g26j7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=108&crop=smart&auto=webp&s=ddf15e48341778a451a85b49b9f28717d820206e"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=216&crop=smart&auto=webp&s=602eb27ca5d7e76c32832a09cac469bf6502c996"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=320&crop=smart&auto=webp&s=882466bdec0733da2f8566e47d1d25b78cf252a2"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=640&crop=smart&auto=webp&s=06928e6b10bc4935f932193652ef7a7bb24559f0"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=960&crop=smart&auto=webp&s=2c76c12446ff0bfecf05b51663893297510635ef"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=1080&crop=smart&auto=webp&s=872519406abcbb6abafd532cda5ff7271a7c80ce"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/18bir0g26j7e1.jpg?width=3024&format=pjpg&auto=webp&s=374baa9da3c1d5a9672318de9eab3a59701bf262"
+                            },
+                            "id": "18bir0g26j7e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "mediaId": "3nd5t0g26j7e1",
+                                "id": 569839592
+                            },
+                            {
+                                "mediaId": "c1sz4bg26j7e1",
+                                "id": 569839593
+                            },
+                            {
+                                "mediaId": "18bir0g26j7e1",
+                                "id": 569839594
+                            },
+                            {
+                                "mediaId": "i0knv0g26j7e1",
+                                "id": 569839595
+                            },
+                            {
+                                "mediaId": "voal41g26j7e1",
+                                "id": 569839596
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "This guy stood out like a jewel in a sea of coal. Easily almost 4 feet in diameter, completely hollow. Found near a historic cemetery and amongst countless old field walls."
+                                    }
+                                ],
+                                "e": "par"
+                            },
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "It likely predates the forest that grew around it by over 100 years. It\u2019s long healed over its lower branches it lost 100+ years ago when the forest regrew. Still thriving even now!"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgt7n5?m=AQAA_0toZ21oD0okIRnTy6ZiXCrz7iuIEWRz79b2Z7qbrbWsXpyB",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hgt7n5",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hgt7n5",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgsczz": {
+                "id": "t3_1hgsczz",
+                "numComments": 9,
+                "created": 1734491458000,
+                "score": 635,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/5r5fVyjHznq3njZVwGRcqfvvc3860c9oUuwlmTreSAk.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Not your living room's ponytail palm",
+                "author": "gibagger",
+                "authorId": "t2_ck76j",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hgsczz",
+                "upvoteRatio": 1.0,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hgsczz/not_your_living_rooms_ponytail_palm/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "hhgdh85mxi7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/hhgdh85mxi7e1.jpg?width=108&crop=smart&auto=webp&s=c0ec3a95fa72849d0ba0f548445d748dd73f235c"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/hhgdh85mxi7e1.jpg?width=216&crop=smart&auto=webp&s=348b7dfc68f44681af371ceeb76a0f7125795edf"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/hhgdh85mxi7e1.jpg?width=320&crop=smart&auto=webp&s=0f351d4fa2088c85450aa749d6c76b6d124ade41"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/hhgdh85mxi7e1.jpg?width=640&crop=smart&auto=webp&s=8a497dca19b03eb944026ed08416d735a55ea108"
+                                }
+                            ],
+                            "s": {
+                                "y": 1600,
+                                "x": 720,
+                                "u": "https://preview.redd.it/hhgdh85mxi7e1.jpg?width=720&format=pjpg&auto=webp&s=055cd605d64af803e2547199607a6ec3d4f76e1c"
+                            },
+                            "id": "hhgdh85mxi7e1"
+                        },
+                        "hdx2xjklxi7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 191,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/hdx2xjklxi7e1.jpg?width=108&crop=smart&auto=webp&s=b1849ee5234c65f87eb486d84d7f7726d268dc1a"
+                                },
+                                {
+                                    "y": 383,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/hdx2xjklxi7e1.jpg?width=216&crop=smart&auto=webp&s=b0f725321e40a6275e230e1ec4b04d1a622a7e59"
+                                },
+                                {
+                                    "y": 568,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/hdx2xjklxi7e1.jpg?width=320&crop=smart&auto=webp&s=abf7078ff7bf2eaf89cc1bb59e21100986c4dde9"
+                                },
+                                {
+                                    "y": 1136,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/hdx2xjklxi7e1.jpg?width=640&crop=smart&auto=webp&s=797681129457f24dcd0ec6f53a752d902ee59b82"
+                                }
+                            ],
+                            "s": {
+                                "y": 1600,
+                                "x": 901,
+                                "u": "https://preview.redd.it/hdx2xjklxi7e1.jpg?width=901&format=pjpg&auto=webp&s=0957cd01cc60b285a40e370ff3f968b6e87dde46"
+                            },
+                            "id": "hdx2xjklxi7e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "caption": "",
+                                "mediaId": "hdx2xjklxi7e1",
+                                "id": 569821563
+                            },
+                            {
+                                "caption": "",
+                                "mediaId": "hhgdh85mxi7e1",
+                                "id": 569821564
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Human for scale in second photo."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgsczz?m=AQAA_0toZ2nrQgw08a4ST-RIrp5jdYhtEMhSl3Rvq6Mg8Omffbv5",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hgsczz",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hgsczz",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgo9o7": {
+                "id": "t3_1hgo9o7",
+                "numComments": 17,
+                "created": 1734478907000,
+                "score": 70,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/qZpZDaWqLarXqBH9EpENnUvOEUuKEsS9LllqO9U8LxQ.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "English Ivy Removal",
+                "author": "sjlilly87",
+                "authorId": "t2_14tb4myg",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hgo9o7",
+                "upvoteRatio": 0.94,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hgo9o7/english_ivy_removal/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "cv6cic2awh7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=108&crop=smart&auto=webp&s=3cfdf93b1171a609f78dbd163d5a90f7185a6700"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=216&crop=smart&auto=webp&s=815303eedf2160e6dd01e79a3aafdf351e5ec1fe"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=320&crop=smart&auto=webp&s=19b4dc000856d9ee59e650b48bda2d6c02147231"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=640&crop=smart&auto=webp&s=c8644f2d4ac183c7634fd51599a8f731c02ceec6"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=960&crop=smart&auto=webp&s=bd42724456432c5eea2352b691c7f802f5c7e029"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=1080&crop=smart&auto=webp&s=15ca0b383c43aec002a48d3e2cc025e06c98bc7d"
+                                }
+                            ],
+                            "s": {
+                                "y": 4032,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/cv6cic2awh7e1.jpg?width=3024&format=pjpg&auto=webp&s=221f3a695535dc6e05c7b51b6a8df6d54f1cf22b"
+                            },
+                            "id": "cv6cic2awh7e1"
+                        },
+                        "if6eje2awh7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=108&crop=smart&auto=webp&s=a4ae042d3298fad758b0b00d2ab34e0d1eebce69"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=216&crop=smart&auto=webp&s=51d9a6acb89274059273e43d08ded6de59736234"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=320&crop=smart&auto=webp&s=a11a8a2d4bd9d23dbfbddd239d9fd1ca60a8bdf3"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=640&crop=smart&auto=webp&s=fb42691f177e54eec0f8664efc578fb01cdf3916"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=960&crop=smart&auto=webp&s=f931206c96bf916266226e5355c315945decbc4c"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=1080&crop=smart&auto=webp&s=99f694ab903b1aff2042dd096c94312f0ac24313"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/if6eje2awh7e1.jpg?width=4032&format=pjpg&auto=webp&s=10ab7d77de1b721e690a3916c2d3c4f58b5ab006"
+                            },
+                            "id": "if6eje2awh7e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "mediaId": "if6eje2awh7e1",
+                                "id": 569733962
+                            },
+                            {
+                                "mediaId": "cv6cic2awh7e1",
+                                "id": 569733963
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "Well not \"removal\" exactly, but I spent my afternoon hacking away at this massive English Ivy vine(s) growing on an even more massive oak. The mat of ivy was more than 4\" thick in some places."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgo9o7?m=AQAA_0toZy7rFnEEkItsSJyCmawj8tTkTxZMexFPfEb9Yxqd2I0U",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hgo9o7",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hgo9o7",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgo7b9": {
+                "id": "t3_1hgo7b9",
+                "numComments": 3,
+                "created": 1734478721000,
+                "score": 2,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "default",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Do deciduous tree seedlings lose their leaves in winter in their first year of life?",
+                "author": "JarJarAwakens",
+                "authorId": "t2_t6y7f",
+                "authorIsBlocked": false,
+                "domain": "",
+                "postId": "t3_1hgo7b9",
+                "upvoteRatio": 0.75,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hgo7b9/do_deciduous_tree_seedlings_lose_their_leaves_in/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": "t3_1hgo6yo",
+                "crosspostParentId": "t3_1hgo6yo",
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgo7b9?m=AQAA_0toZyulElSwdEukgSTbA9hGAnnfTHi-rRwUOT6bVAZ_ygJq",
+                "source": {
+                    "displayText": "",
+                    "url": "/r/arborists/comments/1hgo6yo/do_deciduous_tree_seedlings_lose_their_leaves_in/",
+                    "outboundUrl": "/r/arborists/comments/1hgo6yo/do_deciduous_tree_seedlings_lose_their_leaves_in/",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hgo6yo": {
+                "id": "t3_1hgo6yo",
+                "numComments": 7,
+                "created": 1734478691000,
+                "score": 1,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "self",
+                    "width": null,
+                    "height": null
+                },
+                "title": "Do deciduous tree seedlings lose their leaves in winter in their first year of life?",
+                "author": "JarJarAwakens",
+                "authorId": "t2_t6y7f",
+                "authorIsBlocked": false,
+                "domain": "self.arborists",
+                "postId": "t3_1hgo6yo",
+                "upvoteRatio": 0.6,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2stku",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/arborists/comments/1hgo6yo/do_deciduous_tree_seedlings_lose_their_leaves_in/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "rtjson",
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "I'm specifically concerned about pecan trees but curious for all trees that lose their leaves in the winter. My pecan seedlings are losing their leaves and I'm wondering if that is normal."
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "mediaMetadata": null,
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 1,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hgo6yo?m=AQAA_0toZ3GoVN3kzDEsLxZY-djWQ3DlUGgzLG06TQ5brZNTJnav",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hga4tt": {
+                "id": "t3_1hga4tt",
+                "numComments": 20,
+                "created": 1734440559000,
+                "score": 591,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/R_G9_Qv7HukqHvFVszCj7xk1htGMnnEFcLa7W5kJuLU.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "Favorite Tree is a Plaines Cottonwood Post UPDATE: I found an even bigger one close to my farm. I\u2019m in awe with the size of this beast!",
+                "author": "MessyGuy01",
+                "authorId": "t2_3gf33rcy",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hga4tt",
+                "upvoteRatio": 0.99,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hga4tt/favorite_tree_is_a_plaines_cottonwood_post_update/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "htdu4b19qe7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 108,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=108&crop=smart&auto=webp&s=6b945bd65c0bd8dfacd7c3f998a9c0fa918d7903"
+                                },
+                                {
+                                    "y": 216,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=216&crop=smart&auto=webp&s=7110b91be61928d09dbef9086fa03ec1f4dcb942"
+                                },
+                                {
+                                    "y": 320,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=320&crop=smart&auto=webp&s=5c08376bc6456eb4183219b7b141c9e398f43ba8"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=640&crop=smart&auto=webp&s=1c2e8f0c5c3ef781ee5995b8401c88e5a97ad794"
+                                },
+                                {
+                                    "y": 960,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=960&crop=smart&auto=webp&s=3137f24d72fa3cc2fc9d0453566333819ba2c858"
+                                },
+                                {
+                                    "y": 1080,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=1080&crop=smart&auto=webp&s=c1719fa71cdefc98b0ccec0d95053e7e8bf811b9"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/htdu4b19qe7e1.jpg?width=3024&format=pjpg&auto=webp&s=9d25c5f71bf8433738ae4ef228f7f596c667b4a5"
+                            },
+                            "id": "htdu4b19qe7e1"
+                        },
+                        "yq1uua19qe7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 108,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=108&crop=smart&auto=webp&s=f3988d8d898f93d89ae90cf3661e57d650be7770"
+                                },
+                                {
+                                    "y": 216,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=216&crop=smart&auto=webp&s=8987ec179c658895e456ea55739d1cb0222cc2ce"
+                                },
+                                {
+                                    "y": 320,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=320&crop=smart&auto=webp&s=bd3ab5aa1c856a89d997ff7892f7607f88ccc4c1"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=640&crop=smart&auto=webp&s=0cbcaaaeccd404656a584603736c65a030d4dbf1"
+                                },
+                                {
+                                    "y": 960,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=960&crop=smart&auto=webp&s=dd4cd1c5decbfad11179c585116c77001fe76ff0"
+                                },
+                                {
+                                    "y": 1080,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=1080&crop=smart&auto=webp&s=efd8b297800f1d98e91bfe7eca50ffae1f0758ac"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/yq1uua19qe7e1.jpg?width=3024&format=pjpg&auto=webp&s=b15bde7cbefecc75779c66edf3427b0dbe263125"
+                            },
+                            "id": "yq1uua19qe7e1"
+                        },
+                        "lteazc19qe7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 108,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=108&crop=smart&auto=webp&s=e12a1dbc5d8d8e31362d8893406f12ed8b34120b"
+                                },
+                                {
+                                    "y": 216,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=216&crop=smart&auto=webp&s=7ca5276ae660baf942b2204f0874b804e92593f9"
+                                },
+                                {
+                                    "y": 320,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=320&crop=smart&auto=webp&s=80e8fe047c28a8dbcf6e497e480713517b8e49a0"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=640&crop=smart&auto=webp&s=d5c741818f3f11ce8e8e9b59e3a1b1eda58ea208"
+                                },
+                                {
+                                    "y": 960,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=960&crop=smart&auto=webp&s=a96b2db6e6ad5425c442b208dfd786d77479b8ba"
+                                },
+                                {
+                                    "y": 1080,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=1080&crop=smart&auto=webp&s=65badc119e1623e59ff09e562594878594970a80"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/lteazc19qe7e1.jpg?width=3024&format=pjpg&auto=webp&s=8ffcd1c58f21d5d3f2cd9deb6d6d95e82d96f634"
+                            },
+                            "id": "lteazc19qe7e1"
+                        },
+                        "1wnteb19qe7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 108,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=108&crop=smart&auto=webp&s=c55b662a540df814a847ecfe4d4d1fbc5246cd27"
+                                },
+                                {
+                                    "y": 216,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=216&crop=smart&auto=webp&s=91a1334e7e71ffbe38dbf8f597888a4fb2380e21"
+                                },
+                                {
+                                    "y": 320,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=320&crop=smart&auto=webp&s=fd24f2e637dd793f03f9d29b0bf8babf03d52e41"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=640&crop=smart&auto=webp&s=64cfc1f3d5e801fb1472e9005e279badd59d994b"
+                                },
+                                {
+                                    "y": 960,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=960&crop=smart&auto=webp&s=118dadccf269781644f116118c96887357cd2ef7"
+                                },
+                                {
+                                    "y": 1080,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=1080&crop=smart&auto=webp&s=ada2ea757811d24db8da2ce4b6c727ec7820ee60"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 3024,
+                                "u": "https://preview.redd.it/1wnteb19qe7e1.jpg?width=3024&format=pjpg&auto=webp&s=7c45bef2148f370cf9f2dccd13afad9b67ac2773"
+                            },
+                            "id": "1wnteb19qe7e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "mediaId": "yq1uua19qe7e1",
+                                "id": 569436186
+                            },
+                            {
+                                "mediaId": "htdu4b19qe7e1",
+                                "id": 569436187
+                            },
+                            {
+                                "mediaId": "lteazc19qe7e1",
+                                "id": 569436188
+                            },
+                            {
+                                "mediaId": "1wnteb19qe7e1",
+                                "id": 569436189
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hga4tt?m=AQAA_0toZ-lhgIjCLQLL9nytCuVH4_xy8FR0hSa4TmXA2CoCczSL",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hga4tt",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hga4tt",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hfyedi": {
+                "id": "t3_1hfyedi",
+                "numComments": 5,
+                "created": 1734396155000,
+                "score": 254,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/rtjwusdi9q43PsKvNDYKp9OerxHj4mKq5f8_PeFTOgI.jpg",
+                    "width": 140,
+                    "height": 140
+                },
+                "title": "160 year old White Oak eastern Iowa ",
+                "author": "Obvious-Function-919",
+                "authorId": "t2_a7rmucevj",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hfyedi",
+                "upvoteRatio": 0.99,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hfyedi/160_year_old_white_oak_eastern_iowa/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/9wwrtdo72b7e1.jpeg",
+                    "type": "image",
+                    "width": 3000,
+                    "height": 4000,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=108&crop=smart&auto=webp&s=d0eb1537de22e6061dd0b3414c2b980a57412cad",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=216&crop=smart&auto=webp&s=2a3550b2f1f0bff2e8b0418a5538b87497b29183",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=320&crop=smart&auto=webp&s=3321d33beb912f73d27bfce49948e23c477771d1",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=640&crop=smart&auto=webp&s=5480dec36ff6e4c1209800953346263d921bddb5",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=960&crop=smart&auto=webp&s=8cbd3b6cf813587c32aafac9f4ee9399ca849102",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?width=1080&crop=smart&auto=webp&s=b01e075243935f1da4b25edaf7e48da6ebc884f5",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/9wwrtdo72b7e1.jpeg?auto=webp&s=3e95b3a00ae895ea6c3cdc0a933d570dd75ba335",
+                    "width": 3000,
+                    "height": 4000
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hfyedi?m=AQAA_0toZ30pqaxV0bxs6UAw5mlb_CAQMVAlxZjuh7fV4h5bCze4",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hfvw5c": {
+                "id": "t3_1hfvw5c",
+                "numComments": 2,
+                "created": 1734389168000,
+                "score": 14,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/pm-VsrcuW70AnM-y1LD8KhYJe2WQ9t_fssRIQYPNh-o.jpg",
+                    "width": 140,
+                    "height": 52
+                },
+                "title": "Witness Of The Fallen In Texas Hill Country",
+                "author": "VenomXTs",
+                "authorId": "t2_13na3y",
+                "authorIsBlocked": false,
+                "domain": "i.redd.it",
+                "postId": "t3_1hfvw5c",
+                "upvoteRatio": 0.79,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Treepreciation",
+                        "type": "text",
+                        "textColor": "light",
+                        "backgroundColor": "#007373",
+                        "templateId": "e0fa39d2-1034-11eb-a2b8-0e9f5f4769e1"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hfvw5c/witness_of_the_fallen_in_texas_hill_country/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "content": "https://i.redd.it/ebwpc7hgha7e1.jpeg",
+                    "type": "image",
+                    "width": 11000,
+                    "height": 4116,
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=108&crop=smart&auto=webp&s=54eff0b1324ae4b9f678237a9497b126da79d86e",
+                            "width": 108,
+                            "height": 40
+                        },
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=216&crop=smart&auto=webp&s=9703907ed992f81ec64e7f148a0f5873b82652ed",
+                            "width": 216,
+                            "height": 80
+                        },
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=320&crop=smart&auto=webp&s=087f47cab40877dfb8edf99908b4ca92e297e9b3",
+                            "width": 320,
+                            "height": 119
+                        },
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=640&crop=smart&auto=webp&s=75089aa82cf74c8832c0875e6f9596b16abb0359",
+                            "width": 640,
+                            "height": 239
+                        },
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=960&crop=smart&auto=webp&s=6253ce3a83af97d374de97bd89591ed91373ac7a",
+                            "width": 960,
+                            "height": 359
+                        },
+                        {
+                            "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?width=1080&crop=smart&auto=webp&s=b92df1ab181ca7222fc898c1475dd861e24fda62",
+                            "width": 1080,
+                            "height": 404
+                        }
+                    ],
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "preview": {
+                    "url": "https://preview.redd.it/ebwpc7hgha7e1.jpeg?auto=webp&s=9e8631c0a254545cd1d9c0954d8e20c70e36a639",
+                    "width": 11000,
+                    "height": 4116
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hfvw5c?m=AQAA_0toZ0tTsxcf3NjGU-Cc9ZSTtTHwzo6Ew9vjQzU8NE0DGnvs",
+                "source": null,
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hftpn2": {
+                "id": "t3_1hftpn2",
+                "numComments": 96,
+                "created": 1734383557000,
+                "score": 656,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/QAquDx4o9eUznBipkXUuvukj145AEYiJK2zEgy2lByQ.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "Someone planted these magnolias up against a building with lattices. Are they stupid?",
+                "author": "fixitinpost",
+                "authorId": "t2_6cx1f",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hftpn2",
+                "upvoteRatio": 0.86,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hftpn2/someone_planted_these_magnolias_up_against_a/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "hcmpqnvr0a7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=108&crop=smart&auto=webp&s=9a5ab2c1f10673f1976d062e142a062722f0a4ef"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=216&crop=smart&auto=webp&s=64b867c0bd894e95887249f7597c4f38ad83041f"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=320&crop=smart&auto=webp&s=dcbf8c4716a48ec60ed12664459f564a3fe9ae9c"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=640&crop=smart&auto=webp&s=f70463f61bd2cf3549360c34596b7186f06a6950"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=960&crop=smart&auto=webp&s=754bce8d83ca35d23efcb33018a7535d1976171b"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=1080&crop=smart&auto=webp&s=2308e309fa5d0a247a39e87533cb2da5591b6ebd"
+                                }
+                            ],
+                            "s": {
+                                "y": 3024,
+                                "x": 4032,
+                                "u": "https://preview.redd.it/hcmpqnvr0a7e1.jpg?width=4032&format=pjpg&auto=webp&s=466d90fda4bbec6dc7e41cee3b6a11e741311f29"
+                            },
+                            "id": "hcmpqnvr0a7e1"
+                        },
+                        "jk9fnovr0a7e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=108&crop=smart&auto=webp&s=c0e674d2010678658353545d56117b70904f6976"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=216&crop=smart&auto=webp&s=8cdf68f5d9d4b7d6f9a9fb37e937e0ded1d60ac8"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=320&crop=smart&auto=webp&s=e5a059d66980048a18fea54c1f112f9844de94bb"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=640&crop=smart&auto=webp&s=497ba335a7065b883fe7977e0d0545b04103c124"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=960&crop=smart&auto=webp&s=ad9c440e66ed962058db1c673495192435dc8d9f"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=1080&crop=smart&auto=webp&s=c8af624e068b49d8073f5f22404f2a1b6543aabf"
+                                }
+                            ],
+                            "s": {
+                                "y": 5712,
+                                "x": 4284,
+                                "u": "https://preview.redd.it/jk9fnovr0a7e1.jpg?width=4284&format=pjpg&auto=webp&s=2ea0828627fd450594464938b5d800669c9845af"
+                            },
+                            "id": "jk9fnovr0a7e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "mediaId": "hcmpqnvr0a7e1",
+                                "id": 569092460
+                            },
+                            {
+                                "mediaId": "jk9fnovr0a7e1",
+                                "id": 569092461
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": []
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hftpn2?m=AQAA_0toZ970LZS9HKCQKqcG2HTaFdu4_rk_6xrLRhw5dP1OD0U2",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hftpn2",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hftpn2",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            },
+            "t3_1hfr9rc": {
+                "id": "t3_1hfr9rc",
+                "numComments": 3,
+                "created": 1734377359000,
+                "score": 6,
+                "distinguishType": null,
+                "isLocked": false,
+                "isStickied": false,
+                "thumbnail": {
+                    "url": "https://b.thumbs.redditmedia.com/kZuyDIJ1qNUlQjyPlKjQaaVNL84fqk2YGJ2ZjOYkGiU.jpg",
+                    "width": 140,
+                    "height": 105
+                },
+                "title": "Is this juniper dying? And if so, can I save it?",
+                "author": "DrowBot64",
+                "authorId": "t2_4r8sa3g3",
+                "authorIsBlocked": false,
+                "domain": "reddit.com",
+                "postId": "t3_1hfr9rc",
+                "upvoteRatio": 0.76,
+                "numDuplicates": null,
+                "discussionType": null,
+                "viewCount": 0,
+                "goldCount": 0,
+                "isArchived": false,
+                "contestMode": false,
+                "gildings": null,
+                "postCategories": null,
+                "suggestedSort": null,
+                "belongsTo": {
+                    "id": "t5_2uzej",
+                    "type": "subreddit"
+                },
+                "flair": [
+                    {
+                        "text": "Help!",
+                        "type": "text",
+                        "textColor": "dark",
+                        "backgroundColor": "#ffd635",
+                        "templateId": "bb2ae238-1034-11eb-b7c0-0eee1a3ab73f"
+                    }
+                ],
+                "hidden": false,
+                "saved": false,
+                "isGildable": false,
+                "isMediaOnly": false,
+                "isSponsored": false,
+                "isNSFW": false,
+                "isMeta": false,
+                "isSpoiler": false,
+                "isBlank": false,
+                "sendReplies": true,
+                "voteState": 0,
+                "permalink": "https://www.reddit.com/r/marijuanaenthusiasts/comments/1hfr9rc/is_this_juniper_dying_and_if_so_can_i_save_it/",
+                "events": [],
+                "eventsOnRender": [],
+                "callToAction": null,
+                "domainOverride": null,
+                "impressionId": null,
+                "isSurveyAd": null,
+                "impressionIdStr": null,
+                "isCreatedFromAdsUi": false,
+                "adSupplementaryText": null,
+                "adPromotedUserPostIds": [],
+                "subcaption": null,
+                "media": {
+                    "obfuscated": null,
+                    "type": "gallery",
+                    "mediaMetadata": {
+                        "5cp9hr6ci97e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 81,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=108&crop=smart&auto=webp&s=b46d56a68de5ff7f22e4a8dde2244acdb8451e4c"
+                                },
+                                {
+                                    "y": 162,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=216&crop=smart&auto=webp&s=1079585aba4feec501adc3763a829ae8e1ac255a"
+                                },
+                                {
+                                    "y": 240,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=320&crop=smart&auto=webp&s=3330133a5b052b50027891c4cff5dfdf46a66d4a"
+                                },
+                                {
+                                    "y": 480,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=640&crop=smart&auto=webp&s=fd93fce8f3f0a1e9b4e2fe40f25e251b9e2d930d"
+                                },
+                                {
+                                    "y": 720,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=960&crop=smart&auto=webp&s=8cc80e9355e2e6dd2b02a9c6f00d5fb764c8a3ef"
+                                },
+                                {
+                                    "y": 810,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=1080&crop=smart&auto=webp&s=f425cf5ee91e230facf76e9e06102a12c813b89a"
+                                }
+                            ],
+                            "s": {
+                                "y": 2448,
+                                "x": 3264,
+                                "u": "https://preview.redd.it/5cp9hr6ci97e1.jpg?width=3264&format=pjpg&auto=webp&s=4c3c2feebc45d828e8686070defef1f83c8e0f04"
+                            },
+                            "id": "5cp9hr6ci97e1"
+                        },
+                        "fyz95aeci97e1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 144,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=108&crop=smart&auto=webp&s=f414268954392860ca9d8e3b8a32758cdc60e16c"
+                                },
+                                {
+                                    "y": 288,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=216&crop=smart&auto=webp&s=6ceefc45d1da7eb604c377f8997e1d7d899f5f53"
+                                },
+                                {
+                                    "y": 426,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=320&crop=smart&auto=webp&s=824b5e460782f177ac3347986fc03932c986660e"
+                                },
+                                {
+                                    "y": 853,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=640&crop=smart&auto=webp&s=be7e5d459a1b0ef487a5c21aba295aecace2f54d"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=960&crop=smart&auto=webp&s=2dc044401252a940b6b35ccc644125267cf319f2"
+                                },
+                                {
+                                    "y": 1440,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=1080&crop=smart&auto=webp&s=3c44ce7694245886ecf965ca11a2cea39fcf85b3"
+                                }
+                            ],
+                            "s": {
+                                "y": 3264,
+                                "x": 2448,
+                                "u": "https://preview.redd.it/fyz95aeci97e1.jpg?width=2448&format=pjpg&auto=webp&s=91a49fd7fab7016184d3ba3d4dc31ca5203b7613"
+                            },
+                            "id": "fyz95aeci97e1"
+                        }
+                    },
+                    "gallery": {
+                        "items": [
+                            {
+                                "caption": "",
+                                "mediaId": "5cp9hr6ci97e1",
+                                "id": 569040012
+                            },
+                            {
+                                "caption": "",
+                                "mediaId": "fyz95aeci97e1",
+                                "id": 569040013
+                            }
+                        ]
+                    },
+                    "richtextContent": {
+                        "document": [
+                            {
+                                "c": [
+                                    {
+                                        "e": "text",
+                                        "t": "The needles are very brittle and stiff and fall apart easily, but it still looks somewhat green and it's been like this for over a month, without ever getting greener or browner, so can I still save it?"
+                                    }
+                                ],
+                                "e": "par"
+                            }
+                        ]
+                    },
+                    "rteMode": "richtext"
+                },
+                "crosspostRootId": null,
+                "crosspostParentId": null,
+                "numCrossposts": 0,
+                "isCrosspostable": false,
+                "liveCommentsWebsocket": "wss://k8s-lb.wss.redditmedia.com/link/1hfr9rc?m=AQAA_0toZ5kJ6zM2WjAc_x6kk590rH0nJjSeBYzI-WHPyvrqDc4U",
+                "source": {
+                    "displayText": "reddit.com",
+                    "url": "https://www.reddit.com/gallery/1hfr9rc",
+                    "outboundUrl": "https://www.reddit.com/gallery/1hfr9rc",
+                    "outboundUrlExpiration": null,
+                    "outboundUrlCreated": null
+                },
+                "isOriginalContent": false,
+                "contentCategories": null,
+                "isScoreHidden": false
+            }
+        },
+        "profiles": {},
+        "subreddits": {
+            "t5_2uzej": {
+                "acceptFollowers": true,
+                "allowChatPostCreation": false,
+                "isChatPostFeatureEnabled": false,
+                "displayText": "r/marijuanaenthusiasts",
+                "type": "public",
+                "id": "t5_2uzej",
+                "isQuarantined": false,
+                "isNSFW": false,
+                "name": "marijuanaenthusiasts",
+                "url": "/r/marijuanaenthusiasts/",
+                "title": "Marijuana Enthusiasts!",
+                "icon": {
+                    "url": "https://b.thumbs.redditmedia.com/Lz1ul035Dp0oTSTlWflT9leSzFb_Op0NHkm1tc_-v8k.png",
+                    "width": 256,
+                    "height": 256
+                },
+                "whitelistStatus": "no_ads",
+                "wls": null,
+                "communityIcon": null,
+                "primaryColor": "#6b6031",
+                "subscribers": 491471,
+                "freeFormReports": true,
+                "isEnrolledInNewModmail": true,
+                "allowPredictions": true,
+                "allowPredictionsTournament": true
+            },
+            "t5_2wyqx": {
+                "displayText": "r/Cycads",
+                "id": "t5_2wyqx",
+                "isQuarantined": false,
+                "isNSFW": false,
+                "name": "Cycads",
+                "whitelistStatus": "no_ads",
+                "wls": 6,
+                "subscribers": 754,
+                "url": "/r/Cycads/",
+                "type": "public",
+                "icon": {
+                    "url": "",
+                    "width": null,
+                    "height": null
+                },
+                "acceptFollowers": true,
+                "title": "Cycads and other interesting gymnosperms.  ",
+                "communityIcon": null,
+                "primaryColor": "",
+                "allowChatPostCreation": false,
+                "isChatPostFeatureEnabled": false,
+                "freeFormReports": true
+            },
+            "t5_2stku": {
+                "displayText": "r/arborists",
+                "id": "t5_2stku",
+                "isQuarantined": false,
+                "isNSFW": false,
+                "name": "arborists",
+                "whitelistStatus": "no_ads",
+                "wls": 6,
+                "subscribers": 198364,
+                "url": "/r/arborists/",
+                "type": "public",
+                "icon": {
+                    "url": "",
+                    "width": null,
+                    "height": null
+                },
+                "acceptFollowers": true,
+                "title": "arborists",
+                "communityIcon": "https://styles.redditmedia.com/t5_2stku/styles/communityIcon_4fh2qdpy00b91.png?width=256&s=fa646fa9f9cef9fea874c8f54459652a1ef70ee9",
+                "primaryColor": "",
+                "allowChatPostCreation": false,
+                "isChatPostFeatureEnabled": false,
+                "freeFormReports": true,
+                "allowPredictions": true,
+                "allowPredictionsTournament": true
+            }
+        },
+        "postFlair": {
+            "t5_2uzej": {
+                "displaySettings": {
+                    "isEnabled": true,
+                    "position": "right"
+                },
+                "permissions": {
+                    "canAssignOwn": true
+                },
+                "templates": {},
+                "templateIds": []
+            },
+            "t5_2wyqx": {
+                "displaySettings": {
+                    "isEnabled": false,
+                    "position": ""
+                }
+            },
+            "t5_2stku": {
+                "displaySettings": {
+                    "isEnabled": true,
+                    "position": "right"
+                }
+            }
+        },
+        "postInstances": {},
+        "token": "t3_1hfr9rc",
+        "dist": 25,
+        "account": null,
+        "features": null,
+        "listingSort": "new",
+        "subredditPermissions": null,
+        "preferences": null,
+        "subredditAboutInfo": {
+            "t5_2uzej": {
+                "accountsActive": 16,
+                "advertiserCategory": "",
+                "usingNewModmail": true,
+                "publicDescription": "Despite the name, we're all about trees! Yes, the large woody plants that grow in the ground. Thank you for visiting! \u263a\ufe0f\ud83c\udf33\ud83c\udf32\n\n--Do you have a tree health question? Please see these [GUIDELINES for Effective posting](https://old.reddit.com/r/Tree/wiki/posting_guidelines) in the tree subs, ***PRIOR TO POSTING***!!",
+                "showMedia": true,
+                "subscribers": 491471,
+                "userIsSubscriber": null,
+                "userIsContributor": null,
+                "restrictPosting": true,
+                "restrictCommenting": false,
+                "disableContributorRequests": false,
+                "submitLinkLabel": "Submit a link or self post",
+                "submitTextLabel": "",
+                "created": 1346984746.0,
+                "acceptFollowers": true,
+                "userIsBanned": false,
+                "emojisEnabled": false,
+                "contentCategory": "",
+                "allOriginalContent": false,
+                "originalContentTagEnabled": false,
+                "hasExternalAccount": false,
+                "isCrosspostableSubreddit": false,
+                "shouldArchivePosts": true,
+                "allowedPostTypes": {
+                    "links": true,
+                    "images": true,
+                    "videos": false,
+                    "text": true,
+                    "spoilers": true,
+                    "polls": true,
+                    "galleries": true,
+                    "talks": false
+                }
+            }
+        },
+        "userFlair": {
+            "t5_2uzej": {
+                "displaySettings": {
+                    "isUserEnabled": false,
+                    "isEnabled": true,
+                    "position": "right"
+                },
+                "permissions": {
+                    "canUserChange": false,
+                    "canAssignOwn": true
+                },
+                "applied": null,
+                "templates": {},
+                "templateIds": []
+            }
+        },
+        "structuredStyles": null,
+        "nextCursor": "t3_1hfr9rc"
+    }
+}
