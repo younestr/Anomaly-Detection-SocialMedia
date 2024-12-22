@@ -8,10 +8,7 @@ data = {
     "tweets": [
         "I love this product! It's amazing! #BestProductEver",
         "Horrible customer service, never again #Disappointed",
-        "This is a neutral statement with no offense.",
-        "Fuck you nigger you should die",
-        "this faggot is getting on my nerves",
-        "Fuck you man"
+        "This is a neutral statement with no offense."
     ]
 }
 
