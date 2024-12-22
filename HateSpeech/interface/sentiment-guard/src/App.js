@@ -7,11 +7,11 @@ function App() {
   const [prediction, setPrediction] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [isTweetMode, setIsTweetMode] = useState(true); // Track whether user is in tweet or file upload mode
-  const [file, setFile] = useState(null); // For handling file uploads
+  const [isTweetMode, setIsTweetMode] = useState(true);
+  const [file, setFile] = useState(null);
+  const [fileData, setFileData] = useState(null);
+  const [selectedColumn, setSelectedColumn] = useState("");
   const [filePrediction, setFilePrediction] = useState(null);
-  const [fileData, setFileData] = useState(null); // Store the file data
-  const [selectedColumn, setSelectedColumn] = useState(""); // Track selected column for tweets
 
   // Handle tweet input change
   const handleChange = (e) => {
@@ -21,7 +21,6 @@ function App() {
   // Send tweet for prediction
   const handleTweetSubmit = async (e) => {
     e.preventDefault();
-
     if (!tweet.trim()) return;
 
     setLoading(true);
@@ -29,9 +28,8 @@ function App() {
 
     try {
       const response = await axios.post("http://127.0.0.1:5000/predict", {
-        tweets: [tweet] // Send the tweet as an array
+        tweets: [tweet],
       });
-
       setPrediction(response.data[0]);
     } catch (err) {
       setError("Error connecting to the server. Please try again later.");
@@ -40,15 +38,15 @@ function App() {
     }
   };
 
-  // Handle file upload for predictions
+  // Handle file upload
   const handleFileChange = (e) => {
     const uploadedFile = e.target.files[0];
     setFile(uploadedFile);
   };
 
-  const handleFileSubmit = async (e) => {
+  // Preview uploaded file
+  const handleFilePreview = async (e) => {
     e.preventDefault();
-
     if (!file) {
       setError("Please upload a file.");
       return;
@@ -67,11 +65,11 @@ function App() {
 
     try {
       const response = await axios.post("http://127.0.0.1:5000/upload", formData, {
-        headers: { 'Content-Type': 'multipart/form-data' }
+        headers: { 'Content-Type': 'multipart/form-data' },
       });
 
-      setFileData(response.data.preview); // Set the file preview data
-      setSelectedColumn(response.data.columns[0]); // Default to the first column
+      setFileData(response.data.preview);
+      setSelectedColumn(response.data.columns[0]);
     } catch (err) {
       setError("Error connecting to the server. Please try again later.");
     } finally {
@@ -79,11 +77,12 @@ function App() {
     }
   };
 
-  // Handle column selection for tweets
+  // Handle column selection
   const handleColumnSelect = (e) => {
     setSelectedColumn(e.target.value);
   };
 
+  // Process file and analyze
   const handleProcessFile = async () => {
     if (!selectedColumn) {
       setError("Please select the column containing the tweets.");
@@ -96,10 +95,10 @@ function App() {
     try {
       const response = await axios.post("http://127.0.0.1:5000/process_file", {
         fileData: fileData,
-        column: selectedColumn
+        column: selectedColumn,
       });
 
-      setFilePrediction(response.data); // Assuming the response is a list of predictions for each row in the file
+      setFilePrediction(response.data);
     } catch (err) {
       setError("Error processing the file. Please try again later.");
     } finally {
@@ -107,7 +106,7 @@ function App() {
     }
   };
 
-  // Function to get color-coded class
+  // Get color-coded class
   const getClassColor = (className) => {
     if (className === "Hate Speech") return "hate-speech";
     if (className === "Neither") return "neither";
@@ -123,13 +122,11 @@ function App() {
         Choose an option below to either test it out with your own tweet or upload your data.
       </p>
 
-      {/* Select mode */}
       <div className="mode-selection">
         <button onClick={() => setIsTweetMode(true)}>Test a Tweet</button>
         <button onClick={() => setIsTweetMode(false)}>Upload Data</button>
       </div>
 
-      {/* Show tweet input form if in tweet mode */}
       {isTweetMode ? (
         <form onSubmit={handleTweetSubmit}>
           <textarea
@@ -145,59 +142,54 @@ function App() {
           </button>
         </form>
       ) : (
-        /* Show file upload form if in file upload mode */
-        <form onSubmit={handleFileSubmit}>
-          <input 
-            type="file" 
-            onChange={handleFileChange} 
-            accept=".csv" 
-          />
-          <br />
-          <button type="submit" disabled={loading}>
-            {loading ? "Uploading..." : "Upload and Analyze"}
-          </button>
-        </form>
-      )}
+        <>
+          <form onSubmit={handleFilePreview}>
+            <input type="file" onChange={handleFileChange} accept=".csv" />
+            <br />
+            <button type="submit" disabled={loading}>
+              {loading ? "Uploading..." : "Preview Data"}
+            </button>
+          </form>
 
-      {/* Display file data preview and column selection after file upload */}
-      {fileData && !isTweetMode && (
-        <div className="file-preview">
-          <h3>File Data Preview:</h3>
-          <table>
-            <thead>
-              <tr>
-                {Object.keys(fileData[0]).map((key, index) => (
-                  <th key={index}>{key}</th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {fileData.slice(0, 5).map((row, index) => (
-                <tr key={index}>
-                  {Object.values(row).map((value, i) => (
-                    <td key={i}>{value}</td>
+          {fileData && (
+            <div className="file-preview">
+              <h3>File Data Preview:</h3>
+              <table>
+                <thead>
+                  <tr>
+                    {Object.keys(fileData[0]).map((key, index) => (
+                      <th key={index}>{key}</th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {fileData.slice(0, 5).map((row, index) => (
+                    <tr key={index}>
+                      {Object.values(row).map((value, i) => (
+                        <td key={i}>{value}</td>
+                      ))}
+                    </tr>
                   ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
+                </tbody>
+              </table>
 
-          <div>
-            <label>Select the column containing the tweets:</label>
-            <select onChange={handleColumnSelect}>
-              {Object.keys(fileData[0]).map((column, index) => (
-                <option key={index} value={column}>{column}</option>
-              ))}
-            </select>
-          </div>
+              <div>
+                <label>Select the column containing the tweets:</label>
+                <select onChange={handleColumnSelect}>
+                  {Object.keys(fileData[0]).map((column, index) => (
+                    <option key={index} value={column}>{column}</option>
+                  ))}
+                </select>
+              </div>
 
-          <button onClick={handleProcessFile} disabled={loading}>
-            {loading ? "Processing..." : "Process and Analyze"}
-          </button>
-        </div>
+              <button onClick={handleProcessFile} disabled={loading}>
+                {loading ? "Processing..." : "Analyze Data"}
+              </button>
+            </div>
+          )}
+        </>
       )}
 
-      {/* Display prediction for tweet */}
       {prediction && isTweetMode && (
         <div className="result">
           <div className="tweet"><strong>Tweet:</strong> {prediction.tweet}</div>
@@ -220,7 +212,6 @@ function App() {
         </div>
       )}
 
-      {/* Display predictions for uploaded data */}
       {filePrediction && !isTweetMode && (
         <div className="result">
           <h3>Predictions for Uploaded Data:</h3>
@@ -235,7 +226,6 @@ function App() {
         </div>
       )}
 
-      {/* Display error message */}
       {error && (
         <div className="error">{error}</div>
       )}
