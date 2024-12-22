@@ -226,3 +226,29 @@ button:disabled {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+table.tweet-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table.tweet-table th,
+table.tweet-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table.tweet-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+table.tweet-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table.tweet-table tr:hover {
+  background-color: #f1f1f1;
+}
+

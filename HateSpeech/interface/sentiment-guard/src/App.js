@@ -154,7 +154,7 @@ function App() {
           {fileData && (
             <div className="file-preview">
               <h3>File Data Preview:</h3>
-              <table>
+              <table className="tweet-table">
                 <thead>
                   <tr>
                     {Object.keys(fileData[0]).map((key, index) => (
@@ -175,7 +175,7 @@ function App() {
 
               <div>
                 <label>Select the column containing the tweets:</label>
-                <select onChange={handleColumnSelect}>
+                <select onChange={handleColumnSelect} value={selectedColumn}>
                   {Object.keys(fileData[0]).map((column, index) => (
                     <option key={index} value={column}>{column}</option>
                   ))}
