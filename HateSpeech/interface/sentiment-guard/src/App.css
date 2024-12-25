@@ -1,255 +1,120 @@
-/* Global Styling */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Arial', sans-serif;
-  background: linear-gradient(135deg, #f9f9f9, #e0e0e0);
-  min-height: 100vh;
+/* src/App.css */
+.app-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  height: 100vh;
+  background-color: #f7f7f7; /* Light grey background */
+  margin: 0;
+  padding: 0;
+  flex-direction: column; /* Stack content vertically */
 }
 
-/* Main App Container */
-.App {
-  width: 100%;
-  max-width: 850px;
-  background-color: white;
-  padding: 3rem;
+.selection-container {
+  text-align: center;
+  background-color: #fff;
+  padding: 40px 30px;
   border-radius: 15px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  transition: all 0.3s ease;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  max-width: 700px;
+  width: 100%;
 }
 
-/* Header Styling */
-.App-header {
-  color: #ffffff;
-  padding: 2rem;
-  background: linear-gradient(145deg, #61dafb, #45a1d4);
-  border-radius: 12px;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
-  margin-bottom: 2rem;
+.app-title {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
 }
 
-.App-header h1 {
-  font-size: 2rem;
-  font-weight: 700;
+.abstract {
+  font-size: 18px;
+  color: #555;
+  margin: 20px 0;
+  line-height: 1.6;
 }
 
-/* Textarea Styling */
-textarea {
-  width: 80%;
-  font-size: 1.1rem;
-  padding: 0.8rem;
-  margin: 1rem 0;
+.instructions {
+  font-size: 16px;
+  color: #777;
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.select-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 20px 40px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
   border-radius: 10px;
-  border: 1px solid #ddd;
-  resize: vertical;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease-in-out;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 250px;
+  max-width: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
 }
 
-/* Textarea Focus Effect */
-textarea:focus {
-  border-color: #61dafb;
-  box-shadow: 0 4px 8px rgba(97, 218, 251, 0.7);
+.select-btn:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Hover effect with shadow */
+}
+
+.select-btn:focus {
   outline: none;
 }
 
-/* Button Styling */
-button {
-  background-color: #61dafb;
-  border: none;
-  padding: 0.8rem 1.5rem;
-  font-size: 1.1rem;
-  font-weight: 600;
+.select-btn svg {
+  margin-right: 10px;
+}
+
+.select-btn:active {
+  background-color: #3e8e41;
+  transform: scale(1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Active state shadow */
+}
+
+.return-home-btn {
+  background-color: #FF6347; /* Red color for return button */
   color: white;
-  border-radius: 12px;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  margin-top: 1rem;
-}
-
-/* Button Hover Effect */
-button:hover {
-  background-color: #4fa3f7;
-  transform: scale(1.05);
-}
-
-/* Button Disabled State */
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-  box-shadow: none;
-}
-
-/* Result and Error Styling */
-.result, .error {
-  margin-top: 2rem;
-  padding: 2rem;
-  border-radius: 12px;
-  max-width: 800px;
-  margin: 2rem auto;
-  font-size: 1.1rem;
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
-  text-align: left;  /* Align text left for a cleaner look */
-}
-
-/* Result (Green) */
-.result {
-  background-color: #e8f5e9;
-  color: #388e3c;
-  border-left: 5px solid #388e3c;
-}
-
-/* Error (Red) */
-.error {
-  background-color: #ffebee;
-  color: #d32f2f;
-  border-left: 5px solid #d32f2f;
-}
-
-/* Prediction Result Layout */
-.result .tweet, .result .prediction, .result .probabilities {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  border-radius: 8px;
-  background-color: #f5f5f5;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-/* Tweet Section Styling */
-.result .tweet {
-  font-size: 1.2rem;
-  font-weight: 500;
-  color: #333;
-}
-
-/* Prediction Section Styling */
-.result .prediction {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #388e3c;
-  background-color: #e8f5e9;
-  padding: 1rem;
-  border-radius: 8px;
-}
-
-/* Probabilities Section Styling */
-.result .probabilities ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.result .probabilities li {
-  padding: 0.5rem;
-  border-bottom: 1px solid #ddd;
-  font-size: 1rem;
-  color: #555;
-}
-
-.result .probabilities li:last-child {
-  border-bottom: none;
-}
-
-/* Responsive Design for Small Screens */
-@media (max-width: 600px) {
-  .App {
-    padding: 2rem;
-  }
-
-  .App-header {
-    padding: 1.5rem;
-  }
-
-  textarea {
-    width: 90%;
-  }
-
-  button {
-    width: 80%;
-  }
-
-  .result, .error {
-    margin-top: 1.5rem;
-    padding: 1.5rem;
-  }
-
-  .result .tweet, .result .prediction, .result .probabilities {
-    margin-bottom: 1rem;
-  }
-}
-
-.result .probabilities li.hate-speech {
-  background-color: #ffebee;
-  color: #d32f2f; /* Red for Hate Speech */
-}
-
-.result .probabilities li.neither {
-  background-color: #f5f5f5;
-  color: #666; /* Gray for Neither */
-}
-
-.result .probabilities li.offensive-language {
-  background-color: #fff3e0;
-  color: #ef6c00; /* Orange for Offensive Language */
-}
-
-.result .hate-speech {
-  color: #d32f2f; /* Red for Hate Speech */
-}
-
-.result .neither {
-  color: #666; /* Gray for Neither */
-}
-
-.result .offensive-language {
-  color: #ef6c00; /* Orange for Offensive Language */
-}
-
-.description {
-  font-size: 0.95em;
-  margin-bottom: 30px;
-  color: #333;
-  background-color: #f9f9f9;
-  padding: 15px;
-  border-left: 5px solid #4caf50;
-  border-radius: 5px;
-  line-height: 1.5;
-  font-style: italic;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-table.tweet-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-}
-
-table.tweet-table th,
-table.tweet-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-}
-
-table.tweet-table th {
-  background-color: #f4f4f4;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
   font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 30px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
 }
 
-table.tweet-table tr:nth-child(even) {
-  background-color: #f9f9f9;
+.return-home-btn:hover {
+  background-color: #FF4500;
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Hover effect with shadow */
 }
 
-table.tweet-table tr:hover {
-  background-color: #f1f1f1;
+.return-home-btn:focus {
+  outline: none;
+}
+
+.return-home-btn:active {
+  background-color: #e03e00;
+  transform: scale(1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Active state shadow */
 }

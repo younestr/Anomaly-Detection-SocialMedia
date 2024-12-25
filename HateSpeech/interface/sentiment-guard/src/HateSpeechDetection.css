@@ -1,0 +1,256 @@
+/* Global Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #f9f9f9, #e0e0e0);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Main App Container */
+  .App {
+    width: 100%;
+    max-width: 850px;
+    background-color: white;
+    padding: 3rem;
+    border-radius: 15px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+  
+  /* Header Styling */
+  .App-header {
+    color: #ffffff;
+    padding: 2rem;
+    background: linear-gradient(145deg, #61dafb, #45a1d4);
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+  }
+  
+  .App-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  
+  /* Textarea Styling */
+  textarea {
+    width: 80%;
+    font-size: 1.1rem;
+    padding: 0.8rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    resize: vertical;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Textarea Focus Effect */
+  textarea:focus {
+    border-color: #61dafb;
+    box-shadow: 0 4px 8px rgba(97, 218, 251, 0.7);
+    outline: none;
+  }
+  
+  /* Button Styling */
+  button {
+    background-color: #61dafb;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: white;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+  }
+  
+  /* Button Hover Effect */
+  button:hover {
+    background-color: #4fa3f7;
+    transform: scale(1.05);
+  }
+  
+  /* Button Disabled State */
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    box-shadow: none;
+  }
+  
+  /* Result and Error Styling */
+  .result, .error {
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 800px;
+    margin: 2rem auto;
+    font-size: 1.1rem;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    text-align: left;  /* Align text left for a cleaner look */
+  }
+  
+  /* Result (Green) */
+  .result {
+    background-color: #e8f5e9;
+    color: #388e3c;
+    border-left: 5px solid #388e3c;
+  }
+  
+  /* Error (Red) */
+  .error {
+    background-color: #ffebee;
+    color: #d32f2f;
+    border-left: 5px solid #d32f2f;
+  }
+  
+  /* Prediction Result Layout */
+  .result .tweet, .result .prediction, .result .probabilities {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Tweet Section Styling */
+  .result .tweet {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  /* Prediction Section Styling */
+  .result .prediction {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #388e3c;
+    background-color: #e8f5e9;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  /* Probabilities Section Styling */
+  .result .probabilities ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .result .probabilities li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .result .probabilities li:last-child {
+    border-bottom: none;
+  }
+  
+  /* Responsive Design for Small Screens */
+  @media (max-width: 600px) {
+    .App {
+      padding: 2rem;
+    }
+  
+    .App-header {
+      padding: 1.5rem;
+    }
+  
+    textarea {
+      width: 90%;
+    }
+  
+    button {
+      width: 80%;
+    }
+  
+    .result, .error {
+      margin-top: 1.5rem;
+      padding: 1.5rem;
+    }
+  
+    .result .tweet, .result .prediction, .result .probabilities {
+      margin-bottom: 1rem;
+    }
+  }
+  
+  .result .probabilities li.hate-speech {
+    background-color: #ffebee;
+    color: #d32f2f; /* Red for Hate Speech */
+  }
+  
+  .result .probabilities li.neither {
+    background-color: #f5f5f5;
+    color: #666; /* Gray for Neither */
+  }
+  
+  .result .probabilities li.offensive-language {
+    background-color: #fff3e0;
+    color: #ef6c00; /* Orange for Offensive Language */
+  }
+  
+  .result .hate-speech {
+    color: #d32f2f; /* Red for Hate Speech */
+  }
+  
+  .result .neither {
+    color: #666; /* Gray for Neither */
+  }
+  
+  .result .offensive-language {
+    color: #ef6c00; /* Orange for Offensive Language */
+  }
+  
+  .description {
+    font-size: 0.95em;
+    margin-bottom: 30px;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-left: 5px solid #4caf50;
+    border-radius: 5px;
+    line-height: 1.5;
+    font-style: italic;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  table.tweet-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table.tweet-table th,
+  table.tweet-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table.tweet-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  table.tweet-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  table.tweet-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
