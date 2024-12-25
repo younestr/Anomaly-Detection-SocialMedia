@@ -57,7 +57,7 @@ function BotDetection() {
     return ''; // No error
   };
 
-  // Handle form submission
+  // Picking up from API port 5001 predict_bot endpoint
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
@@ -75,28 +75,34 @@ function BotDetection() {
     }
 
     try {
-      const response = await fetch('http://localhost:5000/bot_detection', {
+      const response = await fetch('http://localhost:5001/predict_bot', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          user_data: tweetFeatures,
+          tweet_features: tweetFeatures,  // Send the features as JSON
         }),
       });
 
       if (!response.ok) {
-        throw new Error('Failed to fetch bot detection result');
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to fetch bot detection result');
       }
 
+      // Parse the JSON response
       const data = await response.json();
-      
+
+      // Check for errors in the backend response
       if (data.error) {
         throw new Error(data.error);
       }
 
-      setResult(data);  // Set the result from the API response
+      // Set the result to the classification only (as per updated backend)
+      setResult(data.classification);  // Save only the classification result
+
     } catch (err) {
+      console.error("Request error:", err);
       setError('Error: ' + err.message);
     } finally {
       setLoading(false);
@@ -277,18 +283,10 @@ function BotDetection() {
       </form>
 
       {error && <div className="error">{error}</div>}
-      
+
       {result && (
         <div className="result">
-          <h3>Prediction: {result.prediction}</h3>
-          <h4>Probabilities:</h4>
-          <ul>
-            {Object.keys(result.probabilities).map((key) => (
-              <li key={key}>
-                {key}: {result.probabilities[key].toFixed(2)}
-              </li>
-            ))}
-          </ul>
+          <h3>Prediction: {result}</h3> {/* Display only the classification */}
         </div>
       )}
     </div>
